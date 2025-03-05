@@ -54,7 +54,7 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <div class="one">
   <div style="background-color: lightblue;">
     <h1>MY Networking and Security Portfolio</h1>
-    <img src="Screenshot (36).png" alt="Networking" height="500" width="600">
+    <img src='https://github.com/robertthegreat43/robertthegreat43.github.io/blob/main/Gamescience/Screenshot(36).png' alt="MYFILES" >
 
   </div>
 
