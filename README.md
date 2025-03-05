@@ -34,7 +34,7 @@
 
 </style>
 <body>
-<img src="GameScience4.jpg" alt="ME Enjoy Life" height="500" width="600">
+![Me enjoying life](https://github.com/robertthegreat43/robertthegreat43.github.io/blob/main/Gamescience/Gamescience4.jpg)
 <p> <b><i>GameScience is an Author, GameDesigner, Inventor and Network Technion,
  coming from a small town in kansas the youngest of 7, He always had the  dream of Creating  games and
  Game worlds of his own playing D&D and Dominating the local game scene, He has a bachelor's in Computer Science
