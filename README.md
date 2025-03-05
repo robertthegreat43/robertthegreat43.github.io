@@ -54,82 +54,82 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <div class="one">
   <div style="background-color: lightblue;">
     <h1>MY Networking and Security Portfolio</h1>
-    <img src='https://github.com/robertthegreat43/robertthegreat43.github.io/blob/main/Gamescience/Screenshot(36).png' alt="MYFILES" >
+    <<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot">
 
   </div>
 
   <div style="background-color: lightblue;">
     <
-    <img src="Screenshot (37).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot">" alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
 
   <div style="background-color: lightblue;">
-    <img src="Screenshot (38).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(38).png" alt="Screenshot">" alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
   <div style="background-color: lightblue;">
-    <img src="Screenshot (40).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(40).png" alt="Screenshot"> alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
 
   <div style="background-color: lightblue;">
-    <img src="Screenshot (41).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(41).png" alt="Screenshot"> height="500" width="600">
     <p>My portfolio</p>
   </div>
          <div style="background-color: lightblue;">
-    <img src="Screenshot (42).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(42).png" alt="Screenshot"> alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
 
   <div style="background-color: lightblue;">
-    <img src="Screenshot (43).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(43).png" alt="Screenshot">" alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
         <div style="background-color: lightblue;">
-          <img src="Screenshot (44).png" alt="Networking" height="500" width="600">
+          <<img src="/Gamescience/Screenshot%20(44).png" alt="Screenshot"> alt="Networking" height="500" width="600">
           <p>My portfolio</p>
         </div>
 
           <div style="background-color: lightblue;">
-            <img src="Screenshot (51).png" alt="Networking" height="500" width="600">
+            <<img src="/Gamescience/Screenshot%20(51).png" alt="Screenshot">" alt="Networking" height="500" width="600">
             <p>My portfolio</p>
           </div>
 
             <div style="background-color: lightblue;">
-              <img src="Screenshot (47).png" alt="Networking" height="500" width="600">
+              <<img src="/Gamescience/Screenshot%20(47).png" alt="Screenshot"> alt="Networking" height="500" width="600">
               <p>My portfolio</p>
             </div>
                <div style="background-color: lightblue;">
-    <img src="Screenshot (52).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(52).png" alt="Screenshot"> alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
 
   <div style="background-color: lightblue;">
-    <img src="Screenshot (60).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(60).png" alt="Screenshot">" alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
   <div style="background-color: lightblue;">
-    <img src="Screenshot (61).png" alt="Networking" height="500" width="600">
-    <p>My portfolio</p>
-  </div>
-
-  <div style="background-color: lightblue;">
-    <img src="Screenshot (62).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(61).png" alt="Screenshot"> alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
 
   <div style="background-color: lightblue;">
-    <img src="Screenshot (63).png" alt="Networking" height="500" width="600">
-    <p>My portfolio</p>
-  </div>
-  <div style="background-color: lightblue;">
-    <img src="Screenshot (74).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(62).png" alt="Screenshot"> alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
 
   <div style="background-color: lightblue;">
-    <img src="Screenshot (75).png" alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(63).png" alt="Screenshot"> alt="Networking" height="500" width="600">
+    <p>My portfolio</p>
+  </div>
+  <div style="background-color: lightblue;">
+    <<img src="/Gamescience/Screenshot%20(74).png" alt="Screenshot"> alt="Networking" height="500" width="600">
+    <p>My portfolio</p>
+  </div>
+
+  <div style="background-color: lightblue;">
+    <<img src="/Gamescience/Screenshot%20(75).png" alt="Screenshot"> alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
 
