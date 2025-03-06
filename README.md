@@ -219,43 +219,29 @@ References</p>
             </div>
                <div style="background-color: lightblue;">
     <<img src="/Gamescience/Screenshot%20(52).png" alt="Screenshot"> alt="Networking" height="500" width="600">
-    <p>
-SOFTWARE ASSURANCE
-ROBERT GREEN
-					SOFTWARE ASSURANCE 
+    
+<h5>SOFTWARE ASSURANCE
+ROBERT GREEN</h5>
 					
 
 
-Table of Contents
+<p>Table of Contents
 Security in the Development Life Cycle	2
 Security in Non-traditional Model	5
 Security in STATIC ANALYSIS	6
 Guidelines:	6
-Software Assurance Polices and Procedures	8
+Software Assurance Polices and Procedures	8</p>
 
 
-Security in the Development Life Cycle
-Software Assurance
-TTG solutions is company dedicated to bringing innovative software solution to our users
+<h6>Security in the Development Life Cycle
+Software Assurance</h6>
+<p>TTG solutions is company dedicated to bringing innovative software solution to our users
 We rely on simulation to create attacks that are not real and find real world solutions to the problem in a market that is making 45 billion dollars computer security is losing the solutions in networking is not working to solve this problems the firewalls that are supposed to be protecting, the asset and the data are not working CERT reported that there are over 538% percent  rise in attacks reported, Hacker are coming up with new and innovate ways to use malicious software as the new Hacker proclaim that they are able to use AI to create an attack on system this could be a real problem,
-We believe the trick is to give the user maintainable data, systems and software that can be used and still be up through an attack on a network, Knowing That web security is one of these vulnerable issues. We the client may go on and simulate these types of attacks.
+We believe the trick is to give the user maintainable data, systems and software that can be used and still be up through an attack on a network, Knowing That web security is one of these vulnerable issues. We the client may go on and simulate these types of attacks.</p>
 
+<h7>Software development life cycle</7>
 
-
-
-
-
-
-
-
-
-
-
-
-
-Software development life cycle
-
-SDL: is structured process that is used to design , developed and test good quality software
+<p>SDL: is structured process that is used to design , developed and test good quality software
 Planning, defining, designing, Building testing, and deployment.
 The goal of this model is build maintainable data at a low cost that meets the user requirements
 The precise plan tells how we develop maintain , replace and enhance specific software.
@@ -270,29 +256,29 @@ Set Objective and goals Technical
 requirement LLD Scalable Codde Automated testing maintenance
 Resource Planning Requirements
 Reviews
-Approved  Version control  Feedback
+Approved  Version control  Feedback</p>
 
-Stage 1 Planning:
+<p>Stage 1 Planning:
 Requirement analysis is preformed by developers of the entiy
 The data from this report is used to perform the basic report.
 Stage 2:
-Defining a requirements this is where the software is customized for the user and gets approval by market analysis, and SRS. This is a sort of document that specifies all those things that need to be defined during the whole project.
-Stage 3: Designing Architecture:
+Defining a requirements this is where the software is customized for the user and gets approval by market analysis, and SRS. This is a sort of document that specifies all those things that need to be defined during the whole project.</p>
+<p>Stage 3: Designing Architecture:
 SRS this a  reference for coders to look up and readily make the system for the software.
 The requirements are already defined this made by the design document DDS.
 Stage 4:
-Developing the product, At this stage the fundamental development of the product starts for this, developers use a specific programming code as per the design. Conventional tools are also putt through this.
-Stage 5
+Developing the product, At this stage the fundamental development of the product starts for this, developers use a specific programming code as per the design. Conventional tools are also putt through this.</p>
+<p>Stage 5
 After this stage the development of the products is made testing of the product is necessary
-To ensure its smooth execution. A well- written document acts as a tools, it provides infromations and training.
+To ensure its smooth execution. A well- written document acts as a tools, it provides infromations and training.</p>
 
-Stage 6:
-After all of the above steps are done and testing is ensured that the product is a reliable and fit to be deployed, it is the giving to the user for the feed back and analysis.
+<p>Stage 6:
+After all of the above steps are done and testing is ensured that the product is a reliable and fit to be deployed, it is the giving to the user for the feed back and analysis.</p>
 
 
 
-Software assurance policies and procedures
-SDLC is policy that is ensures  your software goes through testing and is built as secure as it can be.
+<h8>Software assurance policies and procedures</h8>
+<p>SDLC is policy that is ensures  your software goes through testing and is built as secure as it can be.
 Scrum, agile, sprints are some of the models.
 
 
@@ -305,10 +291,10 @@ Waterfall model: this is an example of the traditional model.
 The non-traditional model such as agile methodologies offer a more reliant model that is design for maintenance   and the like the model is built  it is used for more complicated software and is an iterative process, while the traditional model is not the nontraditional model offers, Flexibility, Customer Involvement, continuous delivery, collaboration, early and frequent testing.
 TGG solutions could use both models while the traditional model  is best suite for things like data base design, most likely the database will update its self and maintaining it will be not so complicated the traditional model fits best here.
 The agile method the more complicated of the two process would be used to design the simulator and web applications, while the traditional model meets the requirements for this the security is not high enough or complicated enough for the process’s, While the traditional model is  efficient
-It lacks the necessary collaborations to continuous to update and rebuild while the user is still using the application, here at TTG solutions we are giving solutions not becoming the problems.
+It lacks the necessary collaborations to continuous to update and rebuild while the user is still using the application, here at TTG solutions we are giving solutions not becoming the problems.</p>
 
 
-Security in STATIC ANALYSIS
+<p>Security in STATIC ANALYSIS
 
 
 Project outline	2
@@ -331,9 +317,9 @@ It a vulnerablity in a web-application, that allows a milcios user to excute a s
 Most prevelant, This can compromise you account, deldet it or install malware infection
 Using java script to read data from other websites, embedding them  and run scripts, it tricks the browser when input is not handle  properly by the response
 Reflected XSS: if the input has time to be used, the payload delived directly to user and the payload becomes apart of the  script.
-SQL injection: where the attcker user an sql injection
+SQL injection: where the attcker user an sql injection</p>
 
-Guidelines:
+<p>Guidelines:
 Once more the CIA tirade must be used along with software assurance you want to catch bugs early
 Every one makes mistakes and most mistakes will show up in code and can be easily fixed
 But longer it lies dormant, the harder it is to fix. Creating simple tools or using them to debug code.
@@ -347,23 +333,23 @@ Train your people
 Establish a continuous improvement capability
 Its is necessary for our systems to remain up while we deal with these problems,
 Therefore one must be prepare and ready, 
-Adaption to change, sometimes the best thing are the hardest to believe, Its is necessary to above the learning curve.
+Adaption to change, sometimes the best thing are the hardest to believe, Its is necessary to above the learning curve.</p>
 
 
 
 
 
-Software Assurance Polices and Procedures
+<p>Software Assurance Polices and Procedures
 We believe first in keeping your data safe and in the right place ay the right time with minimal dely.
-It necessary that all our staff is trained in network security protocols and able to manage and detect minor intrusions and risk in the private and professional field, the ability to detect an report malicious emails and phone calls and suspicious behavior by co-workers, we have security guards to check staff and data restricted to personal as well as assets and software. By using assets like IDS and IPS as well as sniffers such as Nessus and keeping up to date firewalls and security assets tools to quarantine and extract malicious packets from a company systems.
+It necessary that all our staff is trained in network security protocols and able to manage and detect minor intrusions and risk in the private and professional field, the ability to detect an report malicious emails and phone calls and suspicious behavior by co-workers, we have security guards to check staff and data restricted to personal as well as assets and software. By using assets like IDS and IPS as well as sniffers such as Nessus and keeping up to date firewalls and security assets tools to quarantine and extract malicious packets from a company systems.</p>
 
-By providing data integrity in the form of Authentication we keep our user information easily and readily useable to the customer. We also advise that user use caution when using what ever method or asset the user is using, first pay attention to the passwords that you use and try to use something long and difficult also there is biometric validation too, and keeping the versions updated also, by informing the user of the methods that the hackers use we from another wall of protection around our data.
+<p>By providing data integrity in the form of Authentication we keep our user information easily and readily useable to the customer. We also advise that user use caution when using what ever method or asset the user is using, first pay attention to the passwords that you use and try to use something long and difficult also there is biometric validation too, and keeping the versions updated also, by informing the user of the methods that the hackers use we from another wall of protection around our data.</p>
 
-Last but not least, we believe that through the rigorous  methods of testing  to assure that your software is as agile as it can be, we maintain our data and the use of our applications through maintenance before we release anything into the public it must be tested, evaluated and then released, while we cannot chose for the user what to do with the software or application that the user is using we can only make suggestions and secure thing on our by also keeping the Score of the chance that a risk might be exploited and also using the government information that is available to us that update the types of attacks how to rate the and how to extract them. 
+<p>Last but not least, we believe that through the rigorous  methods of testing  to assure that your software is as agile as it can be, we maintain our data and the use of our applications through maintenance before we release anything into the public it must be tested, evaluated and then released, while we cannot chose for the user what to do with the software or application that the user is using we can only make suggestions and secure thing on our by also keeping the Score of the chance that a risk might be exploited and also using the government information that is available to us that update the types of attacks how to rate the and how to extract them.</p>
 
 
 
-</p>
+
   </div>
 
   <div style="background-color: lightblue;">
