@@ -30,12 +30,7 @@
     width:100%;
     float:right;
 
-  }
-
-
- 
-
-  
+  }  
 
 </style>
 <body>
