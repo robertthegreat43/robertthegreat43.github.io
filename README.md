@@ -34,15 +34,14 @@
 
 </style>
 <body>
-  <iframe src="file.pdf" width="100%" height="600px"></iframe>
+  
 <img src="https://raw.githubusercontent.com/robertthegreat43/robertthegreat43.github.io/main/Gamescience/Gamescience4.jpg" alt="Me enjoying life" height="400" width="500">
-  <embed src="file.pdf" width="100%" height="600px" type="application/pdf">
+  <embed src="file.pdf" width="33%" height="300px" type="application/pdf">
   <p> <b><i>GameScience is an Author, GameDesigner, Inventor and Network Technion,
  coming from a small town in kansas the youngest of 7, He always had the  dream of Creating  games and
  Game worlds of his own. Learning from D&D and Dominating the local game scene as a youth, He has a bachelor's in Computer Science
 Another certification in game design. and a ton of small certificates</i></b></p>
 <h1>His Concepts and Ideals</h1>
-  <iframe src="file.pdf" width="100%" height="600px"></iframe>
 <p style="background-color: lightgreen;"> <b> From a Peasant To a King: A epic about the journey from poverty to power</b></p>
 <input type="button" onclick="alert('This game is based on strategy and skill the user must obtain the skills to become a leader')" value="Click me">
 <p style="background-color: tomato;"> The Ransom: a drug dealer family teaches him a lesson</p>
