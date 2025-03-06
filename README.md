@@ -67,10 +67,10 @@ Another certification in game design. and a ton of small certificates</i></b></p
 CSS410, Cloud Computing
 Cloud Computing Policy Development
 Individual Project – Week 3
-Robert Green
+Robert Green </p>
 
 
-Table of Contents
+<p>Table of Contents
 Benefits and Risks of Cloud Computing	3
 Cloud Services Defined:	3
 IaaS	3
@@ -81,12 +81,12 @@ Cloud Computing Policy Development	5
 Business Impact Analysis:	6
 Data Security Strategies	6
 Cloud Computing Frameworks, Laws, and Regulations	8
-References	9
+References	9</p>
 
 
 
 
-Benefits and Risks of Cloud Computing
+<p> Benefits and Risks of Cloud Computing
 
 Cloud Services Defined:
 
@@ -109,15 +109,15 @@ SaaS
 What: software as a Services
 How: Includes applications running in the cloud that are accessed in a thin client manner or via the Web
 Challenges to Implementation: the same as most application security problems encryption, and bad code but it has it most problems with pass word and password cracking.
+</P>
 
-
-Current Strategies for Securing Cloud Computing Services
-The most effective access controls:
-1) Broad Network access: standard mechanisms that promote the use of high end network 
+<h2>Current Strategies for Securing Cloud Computing Services
+The most effective access controls:</h2>
+<p>1) Broad Network access: standard mechanisms that promote the use of high end network 
 Communications, such as phones etc.. These services are vulnerable and at risk of Dos
-And attack that denies the client access to it’s service.
+And attack that denies the client access to it’s service.</p>
 
-2) Resource Pooling: The computing resources of a cloud system( e. g, storage , memory, processing, network bandwidth) are pooled to serve multiple consumers using a multi-tenant model. Through different resources.
+<p>2) Resource Pooling: The computing resources of a cloud system( e. g, storage , memory, processing, network bandwidth) are pooled to serve multiple consumers using a multi-tenant model. Through different resources.
 
 3) Data sharing: sharing information among different organizations is not a trivial task since 
 
@@ -126,7 +126,7 @@ To facilitate data sharing , concepts such as trust of the federated identities 
 Consumers are required to be responsible for the security of their cloud model,
 Although a clod service provider might take over the process.
 4) I recommend that I security professional such as I be contracted to implement a secure structure and build the key elements of the AC to prepare for a possible and or enable attack
-This will involve encryption weather it is key values or not, there must be a way to control who can get into your space, who has access to what types of controls, are you an administrator or just a common user this all matters has to control.
+This will involve encryption weather it is key values or not, there must be a way to control who can get into your space, who has access to what types of controls, are you an administrator or just a common user this all matters has to control.</p>
 
 
 
