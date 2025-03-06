@@ -34,6 +34,7 @@
 
 </style>
 <body>
+  <iframe src="file.pdf" width="100%" height="600px"></iframe>
 <img src="https://raw.githubusercontent.com/robertthegreat43/robertthegreat43.github.io/main/Gamescience/Gamescience4.jpg" alt="Me enjoying life" height="400" width="500">
   <embed src="file.pdf" width="100%" height="600px" type="application/pdf">
   <p> <b><i>GameScience is an Author, GameDesigner, Inventor and Network Technion,
