@@ -169,9 +169,9 @@ Because we cannot be sure the user actions a and must try to prevent and or dete
 
 <p>DRP:
 Data is the Big in clod computing and there is a very large need for security  and protection of Big Data. The company needs to perfume a risk analysis and have a BIA, Logging in all the  threats and new threats to clod Computing By using organizations like Cert we be able to create a threat level assessment
-Create response: The BIA has a set of controls that will allow for businesses using cloud computing to be able to manage what they can manage, The Security Controls define a specific approach to each situations as cover in the risk management assessment.
+Create response: The BIA has a set of controls that will allow for businesses using cloud computing to be able to manage what they can manage, The Security Controls define a specific approach to each situations as cover in the risk management assessment.</p>
 
-Data Security Strategies
+<p>Data Security Strategies
 
 
 
