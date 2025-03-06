@@ -63,8 +63,7 @@ Another certification in game design. and a ton of small certificates</i></b></p
   <div style="background-color: lightblue;">
     <
     <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot">" alt="Networking" height="500" width="600">
-    <h1>
-CSS410, Cloud Computing
+    <h1> Cloud Computing
 Cloud Computing Policy Development
 Robert Green </h1>
 
