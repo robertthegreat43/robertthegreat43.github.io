@@ -22,11 +22,9 @@
   <meta name="theme-color" content="#fafafa">
 </head>
 
-  div.two div{
-    width:100%;
-    float:right;
+ 
 
-  }
+  
 
 </style>
 <body>
