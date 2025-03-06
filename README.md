@@ -21,10 +21,7 @@
   <link rel="manifest" href="site.webmanifest">
   <meta name="theme-color" content="#fafafa">
 </head>
- {
-    width: 100%;
-    overflow: auto;
-  }
+
   div.two div{
     width:100%;
     float:right;
