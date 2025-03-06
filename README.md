@@ -225,9 +225,8 @@ ROBERT GREEN
 					SOFTWARE ASSURANCE 
 					
 
-Project outline
+
 Table of Contents
-Project outline	2
 Security in the Development Life Cycle	2
 Security in Non-traditional Model	5
 Security in STATIC ANALYSIS	6
