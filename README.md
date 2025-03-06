@@ -125,7 +125,7 @@ A cloud system needs to meet the same security of organizations to achieves that
 To facilitate data sharing , concepts such as trust of the federated identities and AC
 Consumers are required to be responsible for the security of their cloud model,
 Although a cloud service provider might take over the process.
-4) I recommend that I security professional such as I be contracted to implement a secure structure and build the key elements of the AC to prepare for a possible and or  attack
+4) I recommend that a security professional such as I be contracted to implement a secure structure and build the key elements of the AC to prepare for a possible and or  attack
 This will involve encryption weather it is key values or not, there must be a way to control who can get into your space, who has access to what types of controls, are you an administrator or just a common user this all matters has to control.</p>
 
 
