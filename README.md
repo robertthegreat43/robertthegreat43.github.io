@@ -66,7 +66,6 @@ Another certification in game design. and a ton of small certificates</i></b></p
     <h1>
 CSS410, Cloud Computing
 Cloud Computing Policy Development
-Individual Project – Week 3
 Robert Green </h1>
 
 
