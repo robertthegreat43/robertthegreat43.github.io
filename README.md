@@ -41,6 +41,32 @@
  coming from a small town in kansas the youngest of 7, He always had the  dream of Creating  games and
  Game worlds of his own. Learning from D&D and Dominating the local game scene as a youth, He has a bachelor's in Computer Science
 Another certification in game design. and a ton of small certificates</i></b></p>
+<script src='https://cdn.jotfor.ms/s/umd/latest/for-embedded-agent.js'></script>
+<script>
+  window.addEventListener("DOMContentLoaded", function() {
+    window.AgentInitializer.init({
+      agentRenderURL: "https://agent.jotform.com/0195cdcbde0e71be924e095775a5f91176e0",
+      rootId: "JotformAgent-0195cdcbde0e71be924e095775a5f91176e0",
+      formID: "0195cdcbde0e71be924e095775a5f91176e0",
+      queryParams: ["skipWelcome=1", "maximizable=1"],
+      domain: "https://www.jotform.com",
+      isDraggable: false,
+      background: "linear-gradient(180deg, #6C73A8 0%, #6C73A8 100%)",
+      buttonBackgroundColor: "#0066C3",
+      buttonIconColor: "#FFFFFF",
+      variant: false,
+      customizations: {
+        "greeting": "Yes",
+        "greetingMessage": "Hi! How can I assist you?",
+        "openByDefault": "No",
+        "pulse": "Yes",
+        "position": "right",
+        "autoOpenChatIn": "0"
+      },
+      isVoice: undefined
+    });
+  });
+</script>
 <h1>His Concepts and Ideals</h1>
 <p style="background-color: lightgreen;"> <b> From a Peasant To a King: An epic about the journey from poverty to power</b></p>
 <input type="button" onclick="alert('This game is based on strategy and skill the user must obtain the skills to become a leader')" value="Click me">
