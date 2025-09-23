@@ -55,10 +55,8 @@ Another certification in game design. and a ton of small certificates</i></b></p
  ' A family secret reveled leads to war')" value="Click me">
 <p>and other titles</p>
 <p></p>
-<div class="one">
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;"
-    <h1>MY Networking and Security Portfolio</h1>
     <<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100">
     <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100">
 	<\div>
