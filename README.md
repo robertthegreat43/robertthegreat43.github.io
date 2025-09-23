@@ -54,12 +54,11 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <input type="button" onclick="alert('This a recreation of the adams family with medusa a the vampires wife with  magical and trouble some kids' +
  ' A family secret reveled leads to war')" value="Click me">
 <p>and other titles</p>
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;"
-    <<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100>"
-    <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100>"
-	<\div>
-<\div>
+
+<<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100>"
+<<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100>"
+	
+
     <h1> Cloud Computing
 Cloud Computing Policy Development
 Robert Green </h1>
@@ -217,24 +216,14 @@ After all of the above steps are done and testing is ensured that the product is
 
 
 
-  </div>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  	<div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
     <<img src="/Gamescience/Screenshot%20(60).png" alt="Screenshot">" alt="Networking" height="100">
     <<img src="/Gamescience/Screenshot%20(61).png" alt="Screenshot"> alt="Networking" height="100">
     <<img src="/Gamescience/Screenshot%20(62).png" alt="Screenshot"> alt="Networking" height="100">
-  	</div>
-</div>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  	<div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
     <<img src="/Gamescience/Screenshot%20(75).png" alt="Screenshot"> alt="Networking" height="100">
 	<<img src="/Gamescience/Screenshot%20(63).png" alt="Screenshot"> alt="Networking" height="100">
     <<img src="/Gamescience/Screenshot%20(74).png" alt="Screenshot"> alt="Networking" height="100">
-    <p>My portfolio</p>
- 	 </div>
-  </div>
+  
 
 
 
