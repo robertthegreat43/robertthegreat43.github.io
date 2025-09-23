@@ -54,11 +54,10 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <input type="button" onclick="alert('This a recreation of the adams family with medusa a the vampires wife with  magical and trouble some kids' +
  ' A family secret reveled leads to war')" value="Click me">
 <p>and other titles</p>
-<p></p>
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;"
-    <<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100">
-    <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100">
+    <<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100>"
+    <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100>"
 	<\div>
 <\div>
     <h1> Cloud Computing
