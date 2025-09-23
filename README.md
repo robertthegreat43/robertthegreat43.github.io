@@ -54,10 +54,6 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <input type="button" onclick="alert('This a recreation of the adams family with medusa a the vampires wife with  magical and trouble some kids' +
  ' A family secret reveled leads to war')" value="Click me">
 <p>and other titles</p>
-<div>
-<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100>"
-<<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100>	
-</div>
 	
     <h1> Cloud Computing
 Cloud Computing Policy Development
