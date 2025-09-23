@@ -35,7 +35,7 @@
 </style>
 <body>
   
-<img src="https://raw.githubusercontent.com/robertthegreat43/robertthegreat43.github.io/main/Gamescience/Gamescience4.jpg" alt="Me enjoying life" height="400" width="500">
+<img src="https://raw.githubusercontent.com/robertthegreat43/robertthegreat43.github.io/main/Gamescience/Gamescience4.jpg" alt="Me enjoying life>
   <embed src="file.pdf" width="50%" height="300px" type="application/pdf">
   <p> <b><i>GameScience is an Author, GameDesigner, Inventor and Network Technion,
  coming from a small town in kansas the youngest of 7, He always had the  dream of Creating  games and
@@ -174,11 +174,11 @@ This will involve encryption weather it is key values or not, there must be a wa
   </div>
 
   <div style="background-color: lightblue;">
-    <<img src="/Gamescience/Screenshot%20(43).png" alt="Screenshot">" alt="Networking" height="500" width="600">
-          <<img src="/Gamescience/Screenshot%20(44).png" alt="Screenshot"> alt="Networking" height="500" width="600">
-            <<img src="/Gamescience/Screenshot%20(51).png" alt="Screenshot">" alt="Networking" height="500" width="600">
-              <<img src="/Gamescience/Screenshot%20(47).png" alt="Screenshot"> alt="Networking" height="500" width="600">
-    <<img src="/Gamescience/Screenshot%20(52).png" alt="Screenshot"> alt="Networking" height="500" width="600">
+    <<img src="/Gamescience/Screenshot%20(43).png" alt="Screenshot">" 
+          <<img src="/Gamescience/Screenshot%20(44).png" alt="Screenshot"> 
+            <<img src="/Gamescience/Screenshot%20(51).png" alt="Screenshot">" 
+              <<img src="/Gamescience/Screenshot%20(47).png" alt="Screenshot">
+    <<img src="/Gamescience/Screenshot%20(52).png" alt="Screenshot"> 
 	</div>
     
 <h5>SOFTWARE ASSURANCE
