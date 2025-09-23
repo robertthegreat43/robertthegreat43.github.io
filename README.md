@@ -166,43 +166,20 @@ This will involve encryption weather it is key values or not, there must be a wa
   </div>
 
   <div style="background-color: lightblue;">
-    <<img src="/Gamescience/Screenshot%20(38).png" alt="Screenshot">" alt="Networking" height="500" width="600">
-    <p>My portfolio</p>
-  </div>
-  <div style="background-color: lightblue;">
-    <<img src="/Gamescience/Screenshot%20(40).png" alt="Screenshot"> alt="Networking" height="500" width="600">
-    <p>My portfolio</p>
-  </div>
-
-  <div style="background-color: lightblue;">
-    <<img src="/Gamescience/Screenshot%20(41).png" alt="Screenshot"> height="500" width="600">
-    <p>My portfolio</p>
-  </div>
-         <div style="background-color: lightblue;">
+    <<img src="/Gamescience/Screenshot%20(38).png" alt="Screenshot">" 
+    <<img src="/Gamescience/Screenshot%20(40).png" alt="Screenshot">
+    <<img src="/Gamescience/Screenshot%20(41).png" alt="Screenshot">
     <<img src="/Gamescience/Screenshot%20(42).png" alt="Screenshot"> alt="Networking" height="500" width="600">
     <p>My portfolio</p>
   </div>
 
   <div style="background-color: lightblue;">
     <<img src="/Gamescience/Screenshot%20(43).png" alt="Screenshot">" alt="Networking" height="500" width="600">
-    <p>My portfolio</p>
-  </div>
-        <div style="background-color: lightblue;">
           <<img src="/Gamescience/Screenshot%20(44).png" alt="Screenshot"> alt="Networking" height="500" width="600">
-          <p>My portfolio</p>
-        </div>
-
-          <div style="background-color: lightblue;">
             <<img src="/Gamescience/Screenshot%20(51).png" alt="Screenshot">" alt="Networking" height="500" width="600">
-            <p>My portfolio</p>
-          </div>
-
-            <div style="background-color: lightblue;">
               <<img src="/Gamescience/Screenshot%20(47).png" alt="Screenshot"> alt="Networking" height="500" width="600">
-              <p>My portfolio</p>
-            </div>
-               <div style="background-color: lightblue;">
     <<img src="/Gamescience/Screenshot%20(52).png" alt="Screenshot"> alt="Networking" height="500" width="600">
+	</div>
     
 <h5>SOFTWARE ASSURANCE
 ROBERT GREEN</h5>
