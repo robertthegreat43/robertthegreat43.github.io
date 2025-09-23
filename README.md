@@ -82,13 +82,13 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <div class="one">
   <div style="background-color: lightblue;">
     <h1>MY Networking and Security Portfolio</h1>
-    <<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot">
+    <<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=200">
 
   </div>
 
   <div style="background-color: lightblue;">
     <
-    <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot">" 
+    <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=200">
     <h1> Cloud Computing
 Cloud Computing Policy Development
 Robert Green </h1>
@@ -173,24 +173,24 @@ This will involve encryption weather it is key values or not, there must be a wa
     <img src="/Gamescience/Screenshot%20(38).png" alt="Screenshot" height="200">
   </div>
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
-    <img src="/Gamescience/Screenshot%20(40).png" alt="Screenshot" height="200">
+    <img src="/Gamescience/Screenshot%20(40).png" alt="Screenshot" height="100">
     <img src="/Gamescience/Screenshot%20(41).png" alt="Screenshot" height="200">
     <img src="/Gamescience/Screenshot%20(42).png" alt="Networking" height="200">
   </div>
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
-    <img src="/Gamescience/Screenshot%20(43).png" alt="Screenshot" height="200">
-    <img src="/Gamescience/Screenshot%20(44).png" alt="Screenshot" height="200">
-    <img src="/Gamescience/Screenshot%20(51).png" alt="Screenshot" height="200">
+    <img src="/Gamescience/Screenshot%20(43).png" alt="Screenshot" height="100">
+    <img src="/Gamescience/Screenshot%20(44).png" alt="Screenshot" height="100">
+    <img src="/Gamescience/Screenshot%20(51).png" alt="Screenshot" height="100">
   </div>
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
-    <img src="/Gamescience/Screenshot%20(47).png" alt="Screenshot" height="200">
-    <img src="/Gamescience/Screenshot%20(52).png" alt="Screenshot" height="200">
-    <img src="/Gamescience/Screenshot%20(60).png" alt="Networking" height="200">
+    <img src="/Gamescience/Screenshot%20(47).png" alt="Screenshot" height="100">
+    <img src="/Gamescience/Screenshot%20(52).png" alt="Screenshot" height="100">
+    <img src="/Gamescience/Screenshot%20(60).png" alt="Networking" height="100">
   </div>
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
-    <img src="/Gamescience/Screenshot%20(61).png" alt="Networking" height="200">
-    <img src="/Gamescience/Screenshot%20(62).png" alt="Networking" height="200">
-    <img src="/Gamescience/Screenshot%20(63).png" alt="Networking" height="200">
+    <img src="/Gamescience/Screenshot%20(61).png" alt="Networking" height="100">
+    <img src="/Gamescience/Screenshot%20(62).png" alt="Networking" height="100">
+    <img src="/Gamescience/Screenshot%20(63).png" alt="Networking" height="100">
   </div>
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px;">
     <img src="/Gamescience/Screenshot%20(74).png" alt="Networking" height="200">
