@@ -80,7 +80,8 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <p>and other titles</p>
 <p></p>
 <div class="one">
-  <div style="background-color: lightblue;">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;"
     <h1>MY Networking and Security Portfolio</h1>
     <<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100">
     <<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100">
@@ -244,7 +245,8 @@ After all of the above steps are done and testing is ensured that the product is
 
   </div>
 
-  <div style="background-color: lightblue;">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
     <<img src="/Gamescience/Screenshot%20(60).png" alt="Screenshot">" alt="Networking" height="100">
     <<img src="/Gamescience/Screenshot%20(61).png" alt="Screenshot"> alt="Networking" height="100">
     <<img src="/Gamescience/Screenshot%20(62).png" alt="Screenshot"> alt="Networking" height="100">
@@ -253,7 +255,8 @@ After all of the above steps are done and testing is ensured that the product is
     <p>My portfolio</p>
   </div>
 
-  <div style="background-color: lightblue;">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
     <<img src="/Gamescience/Screenshot%20(75).png" alt="Screenshot"> alt="Networking" height="100">
     <p>My portfolio</p>
   </div>
