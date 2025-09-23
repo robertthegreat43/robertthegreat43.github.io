@@ -54,11 +54,11 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <input type="button" onclick="alert('This a recreation of the adams family with medusa a the vampires wife with  magical and trouble some kids' +
  ' A family secret reveled leads to war')" value="Click me">
 <p>and other titles</p>
-
-<<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100>"
-<<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100>"
+<div>
+<img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" "height=100>"
+<<img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" "height=100>	
+</div>
 	
-
     <h1> Cloud Computing
 Cloud Computing Policy Development
 Robert Green </h1>
@@ -138,14 +138,14 @@ This will involve encryption weather it is key values or not, there must be a wa
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
-    <img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" height="200">
-    <img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" height="200">
-    <img src="/Gamescience/Screenshot%20(38).png" alt="Screenshot" height="200">
+    <img src="/Gamescience/Screenshot%20(36).png" alt="Screenshot" height="100">
+    <img src="/Gamescience/Screenshot%20(37).png" alt="Screenshot" height="100">
+    <img src="/Gamescience/Screenshot%20(38).png" alt="Screenshot" height="100">
   </div>
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
     <img src="/Gamescience/Screenshot%20(40).png" alt="Screenshot" height="100">
-    <img src="/Gamescience/Screenshot%20(41).png" alt="Screenshot" height="200">
-    <img src="/Gamescience/Screenshot%20(42).png" alt="Networking" height="200">
+    <img src="/Gamescience/Screenshot%20(41).png" alt="Screenshot" height="100">
+    <img src="/Gamescience/Screenshot%20(42).png" alt="Networking" height="100">
   </div>
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
     <img src="/Gamescience/Screenshot%20(43).png" alt="Screenshot" height="100">
@@ -212,22 +212,6 @@ To ensure its smooth execution. A well- written document acts as a tools, it pro
 
 <p>Stage 6:
 After all of the above steps are done and testing is ensured that the product is a reliable and fit to be deployed, it is the giving to the user for the feed back and analysis.</p>
-
-
-
-
-
-    <<img src="/Gamescience/Screenshot%20(60).png" alt="Screenshot">" alt="Networking" height="100">
-    <<img src="/Gamescience/Screenshot%20(61).png" alt="Screenshot"> alt="Networking" height="100">
-    <<img src="/Gamescience/Screenshot%20(62).png" alt="Screenshot"> alt="Networking" height="100">
-    <<img src="/Gamescience/Screenshot%20(75).png" alt="Screenshot"> alt="Networking" height="100">
-	<<img src="/Gamescience/Screenshot%20(63).png" alt="Screenshot"> alt="Networking" height="100">
-    <<img src="/Gamescience/Screenshot%20(74).png" alt="Screenshot"> alt="Networking" height="100">
-  
-
-
-
-
 </body>
 
 </html>
