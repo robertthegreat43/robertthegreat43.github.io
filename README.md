@@ -93,35 +93,40 @@ Noth: Travelers, elf warriors, troll warriors, Dwarf Warriors, The Royal Gard Of
 South Castle: Dark elves, Mystical Travelers, Demon Knights, Trolls, Evil Spell Casters, Same in the mountains with the Orc’s. 	
 </p>
 <p> 
-			Characters
-Level: 5
+									<h1>Characters</h1>
+<p>Level: 5
 Class: Morph (class 3)
 Name: Itinka
 Abilities: morphs Body parts
 Attacks: Class 1: Body become pokey-pined, Class2: Grows Wings and Tail, Class 3: Becomes Demonized,	
 Story: Itinka is a Morph Princess, Her race was created when the spirit of a doppelganger jumped into a fox to return to the living to reclaim the her Human lover. Born as fox the spirit grew fast and tracked down her lover and made morphs. Morphs are a secrete race who live in on a enchanted plane. Itinka was banished by he father for Practicing dark morph art’s. Only a royal blood morphs can morph 3 Classes and grow mass, normal morph can only morph one class Face and skin color Class 2: change of Limbs Minor and Tail.		(The story Of Itinka can be found in the Crystal Palace).
-	
+</p>
+<p>
 Level: 10
 Class: Silver elf
 Name: Ras
 Attacks: Conjure, Teleport,  Pian Of Death(non-lethal), Melting Flesh(non-lethal) Arcane Archer, Master Battle Axeman
 Story: The Silver Queen Came to the Dark to Show the chosen there was no need to be afraid of the Light, She then gave the chosen her blessing and told them to find a  place among the 5 races for them. After 5000 year war the Silver elf’s  are tolerated amongst the 5 races, Silver elf’s are know by their dark blue dread locks, Which are blessed by the silver Queen.  Ras’s family fought and died in the war, left orphan a family of fair skinned elf’s took him as their adopted son, He could not accept life with the people who had fought against his own, He sought life else where.(The Story Of Ras can be found in the Crystal Palace).
+</p>
 
-
+<p>
 Level 3: 
 Class: Glom
 Name: Thunder Clap
 Abilities: Has super strength, Has super Jump
 Attacks: His hands become Magic weapons need to complete a task
 Story: A wizard created thunder clap during the war and Reached into the spirit world and grabbed a soul unborn, so Thunder clap was like a child The wizard told his apprentice that Thunder Clap was a regular glom and was killed for his lie but Thunder Clap was intelligent and cloud not be controlled by magic he escaped and The apprentice has been looking for him ever since.
-
+</p>
+<p>
 Level 20: 
 Class: Unknown
 Name: Siren
 Ability: Invisibility, Transparency , “she can Only be seen if she wants to be.”
 Attacks:  Her color designates her attack, Red- fire, Green-earth, etc.
 Story: Siren is trying  to get back home, She was summoned to this world by the king of the north to kill the king of the south Under the assumption that she was saving her world form the dark terror she found that terror was the king of the north himself
+</p>
 
+<p>
 Level: 12 
 Class: Monk
 Name: YIN
@@ -136,7 +141,9 @@ Name: Yang
 Abilities: Joins with sword to become a magical Tiger
 Attacks: Tiger Attacks, Master Swords Man
 Story: She believes that The Yin Killed their Master
+</p>
 
+<p>
 Level: Master
 Class: Assassin
 Ability: Stealth
@@ -146,7 +153,9 @@ Story: He was Hired to kill the  Barron and stopped by a direct hit, The Barron 
 Level: Master Politician
 Class: Human
 Story: Holds the Key to the city in between the north and the south, His master plan was to rule the north and  the south, Disguise himself as a monarch of the north He charmed the south King into giving up His spot, When the assassin had came, he told the assassin of his treachery
+</P>
 
+<p>
 Level: 7
 Class: Human
 Abilities: Master Swordsman, Super Strength
@@ -159,10 +168,10 @@ Abilities: Charms, Heal,
 Attacks: Master at all Weapons
 Name: Self
 Story: The Once Long time Friends of the Long Oak Elves, The Mountain Dwarfs was one relation ship Long Oak converted. Until The dwarfs stole the Dimond hart, magical elf stone that hides their village and the source of the Long Oak magic, It is believed the dwarfs are using it to hide a large Mountain of gold and silver form the world.
+</p>
 
 
-
-																Objective
+																<h1>Objective</h1>
 																
 The user Must get Ras and His Crew Home, to do so the user Must Complete every Chosen Companions Mission all Groups are complete As long as Itinka, Thunder Clap or Ras is chosen. The User Must Be able to get the IPC to Complete their Mission
 
@@ -173,40 +182,44 @@ The user Must get Ras and His Crew Home, to do so the user Must Complete every C
 
 
 
-																Side Adventures
+																<h2>Side Adventures</h2>
 
-
+<p>
 City Of Shells:
 City Of shells:  If One Objective is complete and you enter the city of shells, An old beggar woman will be waiting for you she will tell the story of  a city of gold beneath the waters of waters, she promises power beyond belief, but nobody has ever found it because the map lies in the layer Of a gold Dragon In the North Mountains.
+</p>
 
 
 
 
 
 
-
+<p>
 Bell’s Company:
 Bell’s Company: Mercenary group lead by Bell, Bell a level 5 War Wizard, Seven a level 5 War Wizard, Simon Level 7 clerk, Niki Level 7  Warrior elf and Twitt a level 8 half demon
 Story: Bell’s Company has be hired by the King of the North to find Bell, Since she did not Kill the king of the south, He wants them to bring her to him so he can steal her powers.
+</p>
 
 
 
 
 
-
+<p>
 Angel Of Death:
 Angles Of Death: The Angels Of Death are all Druids Some of the warriors of the staff and some of Magic. They all believe in the One Dead King One of their Kind Recognizes the User as One of their Own; They Worship and Follow You until you agree to come to the temple of the undead so that you can see that you who they you are. The Priest Miron Dose not care if your are or not the return of the undead king is not for 200 years, the lies have said he will return sooner and it is now the time of the undead, If you come to the Castel Most of the druids on Miron command will try to Kill You, If you attack Minor an Ancient spell of protection is cast and you are all zapped from the castle. The angels of death will seek you out, all except one who know what happened.
+</p>
 
 
 
-
+<p>
 The Rings Of Visibility:
 Siren In Balk city learns Of A ring of Invisibility, She wonder what it is like to be seen and the map only cost 100 gold pieces. The city Is filled With Ton’s of large Over Powering Best and Magical weapons, No weapons can leave the city if the User has a weapon equipped The that User cannot leave the city.
 Thrug:    Thrug is an Arcane Spell caster he will give you the ring if you will allow him to watch over your Adventures you cannot kill Thrug, (In the Middel Of the city is a small house in the basement is surges real body, It is guarded by an Undead Knight and 100 Blood Knight to finish your missions you have to kill Thrug.
+</p>
 
-
-
+<h1>
 Monster Manual
+</h1>
 Dire wolves: 20 HP, DP: 0-5.
 Merchant: Potions, Supplies, Magic Items,
 Bandits : Can be one type of warriors or a mix.
@@ -217,17 +230,47 @@ Sandworms: HP 5, DP 5
 Lizard Men: HP 50-100, DP 5- 50
 Dwarf Warriors: HP 100-200, DP-5-50
 The Royal Guard of the North or The South: 50 Knights HP 50, DP 5-50
-Mystic Travelers: are Travelers from other worlds Whom are wishing to do battle with everyone, Summoned Demons HP 50 DP 0-50, Devils Knights HP 50, DP 0-50,  RED Knights HP 50 DP 0-50
+Mystic Travelers: are Travelers from other worlds Whom are wishing to do battle with everyone, Summoned Demons HP 50 DP 0-50, Devils Knights HP 50, DP 0-50,  RED Knights HP 50 DP 0-5	
+</div>
 
+<p>
+<h2>
+Web and Data base security
+			IP3: 
+			By Robert Green
+			Date 08-16-24
+</h2>
 
-
-
-
-
+<h3>Server Maintenance:</h3>
+<p>
+Server Maintenance is a essential pert of IT infrastructure running it smoothly and efficiently.
+By running these check you can make sure you DB is operating smoothly.
+1) Check server logs for any errors or alerts. Immediately resolving issues
+2) Monitor system performance and resources usage to detect ant anomalies
+3) Verify system backups and ensure they are running correctly
 </p>
 
-	
-</div>
+<h3>Account admiration:</h3>
+<p>
+Accounts with administrative and elevated privileges are necessary for both business and IT functions, but they resent a significant risk to your organization in the hands of the careless or malcontent insider.
+1)Discover all accounts with privileged access.
+2)  Identity the owner of each privileged account.
+3) Work with the owners to understand the purpose of each account
+</p>
+
+ <h2>access control:</h2>
+ <p>
+Auditing is an essential component of access controls it involves monitoring and recoding access patterns and activities.
+1) Distributed IT Environments and the Adoption of clod computing
+2) The rise of Mobility and remote work
+3) Password Fatigue
+4) Separate Identity Silos and Lack of Centralized User Directory
+ </p>
+<p>
+The act of auditing is more the review of logs and new data entered into the system
+It also allows the user to see if by the data and malformed or suspected information usly leads to a vulnerability or a exploit in the data tracking the data for un normal entries.
+</p>
+
 	
 
 
