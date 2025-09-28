@@ -43,7 +43,9 @@
 Another certification in game design. and a ton of small certificates</i></b></p>
 
 
-<h1>His Concepts and Ideals</h1>
+<h1>
+	His Concepts and Ideals
+</h1>
 <p style="background-color: lightgreen;"> <b> From a Peasant To a King: An epic about the journey from poverty to power</b></p>
 <input type="button" onclick="alert('This game is based on strategy and skill the user must obtain the skills to become a leader')" value="Click me">
 <p style="background-color: tomato;"> The Ransom: a drug dealer's family teaches him a lesson</p>
@@ -66,16 +68,6 @@ Another certification in game design. and a ton of small certificates</i></b></p
 					Games Science “Robert Green” is prohibited by Robert Green 
 
 
-							<h2>Table of Contents</h2>
-								Game Play	3
-World Map         	4
-							Monster Map	5
-   Characters	6
-						City Of Shells:	12
-Bell’s Company:	12
-							Angel Of Death:	12
-The Rings Of Visibility:	13
-						Monster Manual	13
 
 
 
@@ -271,8 +263,133 @@ The act of auditing is more the review of logs and new data entered into the sys
 It also allows the user to see if by the data and malformed or suspected information usly leads to a vulnerability or a exploit in the data tracking the data for un normal entries.
 </p>
 
-	
 
+	                    <h1>
+						Software Assurance Guidelines
+						</h1>
+<p>
+Software Assurance: CSS321
+TGG Solutions
+Robert Green
+6/17/24
+</p>
+
+
+
+<h2>Software Assurance</h2>
+<p>
+TTG solutions is company dedicated to bringing innovative software solution to our users
+We rely on simulation to create attacks that are not real and find real world solutions to the problem in a market that is making 45 billion dollars computer security is losing the solutions in networking is not working to solve this problems the firewalls that are supposed to be protecting, the asset and the data are not working CERT reported that there are over 538% percent  rise in attacks reported, Hacker are coming up with new and innovate ways to use malicious software as the new Hacker proclaim that they are able to use AI to create an attack on system this could be a real problem,
+We believe the trick is to give the user maintainable data, systems and software that can be used and still be up through an attack on a network, Knowing That web security is one of these vulnerable issues. We the client may go on and simulate these types of at
+</p>
+<p>
+SDL: is structured process that is used to design , developed and test good quality software
+Planning, defining, designing, Building testing, and deployment.
+The goal of this model is build maintainable data at a low cost that meets the user requirements
+The precise plan tells how we develop maintain , replace and enhance specific software
+</p>
+<p>
+Company Overview:
+Unity is large applications that provides security using Appsec, this wide range
+Company who uses cloud, AWS, Azure, the network, TCP/IP, LINUX/Mac/windows
+NIST framework, PCI-DSS.
+Unity software Inc. operates a platform that provides  real-time #D content and experiences
+It’s platform provides artificial solutions. That supports creators in building , running, and growing immersive, real-time 2d and 3d content for mobile applications, phones tablets and PC’s and consoles. 
+</p>
+
+
+<h2>
+	Section 2 – Sarbanes-Oxley
+</h2>
+<p>
+Sarbanes-Oxley is an act to protect investors by improving the accuracy and reliable of the corporate disclosure’s made pursuit to the securities laws, and for other purposes. Introduced to the house as Corporate and Auditing Accountability, Responsibility and transparency Act pf 2002.This law mandates certain practices in financial record keeping and reporting for corporations. This law was enacted as a rection to a number of major corporate and accounting scandals , including ENRON, WORLDCOM. The act contains eleven titles, or sections , ranging, from additional corporate board responsibilities to criminal penalties.
+</p>
+<h3>
+Examples:
+</h3>
+<p>
+We know about Enron and the finical debacle there, so I will not speak a lot on this topic let move forward to two that we have never looked at before. 
+1) World.com: 
+During  a meeting with auditors, corporate finance director Sanjeev Sethi explained that differing amounts in two capital spending expenditures were related to “prepaid capacity”
+Cooper had never heard of. When pressed for an explanation, Sethi claimed that he did not know what the term meant despite his division approving capital sending request. He referred the auditors to the corporate controller David Myers.
+	Cooper and smith then questioned Betty , the accounting director who made the entries. To their surprise, Vinson admitted she had made the entries without knowing what they were for or seeing support for them. She had done this at the direction of Meyers and the general account director.
+Myers admitted there was no support for the entries he mad to what he thought they should be. The cooper’s team discovered # billion in questionable transfers from line cost.
+</p>
+
+<h3>What It means to IT: 
+</h3>
+<p>
+Allot of It companies do a lot  of sharing of the data let’s say and to build an overall typical power house, Ther could be a few small business that do small services for you a well as 
+Large in Fastly increasing and moving world such as IT,  What it means is that the customer of a 3 party work relation is not responsible for the accounts the  first two parties unless 
+The accounts are the same, Yet it necessary for all levels of IT infrastructure  to look at this
+Because we do a lot of licensing out and we also do a lot, Because I use jet brains products and have run my environment on a JetBrains server and do my accounting there dose make liable for their actions. In my opinion the act make the company lead account and the business administrator a little more edgy about what to and not to.
+</p>
+
+<h1>Section 3 – SOX POLICY
+</h1>
+<p>
+The annual cost for compliance is $2.4M, and 565 of respondents say that compliance adds stress to their work. The Cost for non-Compliance is $4M
+Overview:
+The Sox Compliance is the act of adhering to the financial reporting auditing requirements  of the Sarbanes and Oakley act. To be compliant we must.
+Scope and Policy Details:
+In order to be Compliant we  need adhere to some Specific Policies, Scope to have secure Financial
+Dealing with Home and Foreign companies In a securer, non-criminal infrastructure, Security sharing data, and protecting the privacy and the interest of each company while Having such dealings.
+</p>
+<h2>
+Implement controls to protect Financial Data:
+</h2>
+<p>
+We must adhere to the CIA tirade and Confidentiality, by keeping the data secure to the user that’s is supposed to be accessing it, Integrity, protecting this data in any form from being manipulated or accessed, by a malicious user or some unforeseen event. The FISMA passed as apart of the Homeland Security Act of 2002 and the E- Government Act Of 2002. The act requires every government agency to secure the information as well as the information processing systems that support their  operations and assets, including those provided or managed by another agency, Contractor or other source.
+</p>
+<p>
+1) Categorize the information to be protected.
+2) Select the minimum baseline controls
+3) Refine controls using the risk assessments procedures
+4) Document the control in the system security plan
+</p>
+<h1>
+Enforcement and Punishment:
+</h1>
+<h2>
+The HIPPAA Enforcement Rule:
+</h2>
+<p>The enforcement rule sets civil monetary penalties for violating the HIPAA rules and establishes procedures for investigation and hearing for identified victims
+1) Administrative safeguards
+2) A contingency plan
+3) Physical safe guards
+4) Technical safe guards
+5) Access to information containing health information
+Each of the above entity is responsible for ensuring thay the data within its system has not been changed.
+</p>
+<p>
+Definitions:
+Theses have been define above in each section of the document.
+</p>
+
+<p>
+Revision History: 
+The revisions of each law has been inserted into the text above.
+</p>
+
+<p>
+TOOLS and methods:
+Computing environments have become complex, using the cloud and the internet.  The concept encompass the entire spectrum of the information security. Data security is the business of protecting ones Personal and or Privileged information.
+</p>
+<h3>CIA:
+</h3>
+<p>
+1) Encryptions:
+By turning normal text charters  in to an unreadable format, encryption keys scramble the data so that only authorized users can read it.
+</p>
+<p>
+2) Data erasure:
+Data uses software to completely overwrite data on any storage device, making it more secure than standard data wiping.
+</p>
+<p>
+3) Data  masking:
+Masking data allows teams to develop application o
+R train people that use real data. It mask personal indefinable information so that development can occur in environments that are compliant.
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <div style="display: flex; width: 100%; justify-content: center; gap: 16px; margin-bottom: 16px;">
