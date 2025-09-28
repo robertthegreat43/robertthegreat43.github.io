@@ -65,17 +65,17 @@ Another certification in game design. and a ton of small certificates</i></b></p
 					Any recreation of this file or document with the express permission of
 					Games Science “Robert Green” is prohibited by Robert Green 
 
-Table of Contents:
-Table of Contents
-                Game Play	3
+
+							<h2>Table of Contents</h2>
+								Game Play	3
 World Map         	4
-Monster Map	5
+							Monster Map	5
    Characters	6
-City Of Shells:	12
+						City Of Shells:	12
 Bell’s Company:	12
-Angel Of Death:	12
+							Angel Of Death:	12
 The Rings Of Visibility:	13
-Monster Manual	13
+						Monster Manual	13
 
 
 
@@ -98,8 +98,8 @@ Level: 5
 Class: Morph (class 3)
 Name: Itinka
 Abilities: morphs Body parts
-Attacks: Class 1: Body become pokey-pined, Class2: Grows Wings and Tail,			 Class 3: Becomes Demonized,	
-Story: Itinka is a Morph Princess, He race was created when the spirit of a doppelganger jumped into a fox to return to the living to reclaim the her Human lover. Born as fox the spirit grew fast and tracked down her lover and made morphs. Morphs are a secrete race who live in on a enchanted plane. Itinka was banished by he father for Practicing dark morph art’s. Only a royal blood morphs can morph 3 Classes and grow mass, normal morph can only morph one class Face and skin color Class 2: change of Limbs Minor and Tail.		(The story Of Itinka can be found in the Crystal Palace).
+Attacks: Class 1: Body become pokey-pined, Class2: Grows Wings and Tail, Class 3: Becomes Demonized,	
+Story: Itinka is a Morph Princess, Her race was created when the spirit of a doppelganger jumped into a fox to return to the living to reclaim the her Human lover. Born as fox the spirit grew fast and tracked down her lover and made morphs. Morphs are a secrete race who live in on a enchanted plane. Itinka was banished by he father for Practicing dark morph art’s. Only a royal blood morphs can morph 3 Classes and grow mass, normal morph can only morph one class Face and skin color Class 2: change of Limbs Minor and Tail.		(The story Of Itinka can be found in the Crystal Palace).
 	
 Level: 10
 Class: Silver elf
