@@ -57,7 +57,174 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <p>and other titles</p>
 
 <div>
-	<a href="Ultimate%20Fantasay.docx" download>Download Ultimate Fantasay.docx</a>
+									<h1>Ultimate Fantasy</h1>
+	<P>
+	        						 Ultimate Fantasy
+									By Robert Green
+		           	 Copy right all rights reserved @Robert The Great Green43
+					Any recreation of this file or document with the express permission of
+					Games Science “Robert Green” is prohibited by Robert Green 
+
+Table of Contents:
+Table of Contents
+                Game Play	3
+World Map         	4
+Monster Map	5
+   Characters	6
+City Of Shells:	12
+Bell’s Company:	12
+Angel Of Death:	12
+The Rings Of Visibility:	13
+Monster Manual	13
+
+
+
+               											 Game Play
+This game was originally made for VR and console, The user is allowed to cast spells and fight with weapons, The user Cannot  play the other 10 Characters because the  they are AI or IPC(Interactive Player Chaters) If there is a fight mode for this game, Then Yes if not Then no. The User or Users must make their charters up how every they want the character to look, classes decide on power than can be used (see monster manual). The user must then Choose 5 of the 10 characters to join him. “the game cannot be beat with out Ras, Intinka and Thunder Clap”. When the user selects one of the Main Charters the other two will automatically join they refuse to be separated, If the user Chooses the Yin then the Yang will automatically come with Him/Her and vice versa, this is also true with The Barron and Sekil, if the user choose the Barron the Sekil will come along, If the user choose Sekil first the Barron will not come to avoid  Sekil, The User may choose who to help first all ten Charters are there to help each other that dose not mean they will get along. The User must be active with each charter to learn them if not fights could break out and the Adventure stopped shorty because of the killing.This Story is built around Ras’s Group of three trying to get back to the realm that they were banished from for destroying the Crystal Palace.
+</P>
+
+<p>
+Monster Map
+The Upper Oaks: Dire wolves, Northan Merchants, Villains
+Darkwood: Amaze that leads to Long Oak, Dire Wolves, Bears, Giant Bees, Warriors, Thieves  And Minitour War Bandits.
+Town: Shadow Men, Sandworms, Lizard Men, The castle Of Karma is in the middle of the desert.
+Noth: Travelers, elf warriors, troll warriors, Dwarf Warriors, The Royal Gard Of the North Or South or Both, Evil Clerks, Rading Parties
+
+South Castle: Dark elves, Mystical Travelers, Demon Knights, Trolls, Evil Spell Casters, Same in the mountains with the Orc’s. 	
+</p>
+<p> 
+			Characters
+Level: 5
+Class: Morph (class 3)
+Name: Itinka
+Abilities: morphs Body parts
+Attacks: Class 1: Body become pokey-pined, Class2: Grows Wings and Tail,			 Class 3: Becomes Demonized,	
+Story: Itinka is a Morph Princess, He race was created when the spirit of a doppelganger jumped into a fox to return to the living to reclaim the her Human lover. Born as fox the spirit grew fast and tracked down her lover and made morphs. Morphs are a secrete race who live in on a enchanted plane. Itinka was banished by he father for Practicing dark morph art’s. Only a royal blood morphs can morph 3 Classes and grow mass, normal morph can only morph one class Face and skin color Class 2: change of Limbs Minor and Tail.		(The story Of Itinka can be found in the Crystal Palace).
+	
+Level: 10
+Class: Silver elf
+Name: Ras
+Attacks: Conjure, Teleport,  Pian Of Death(non-lethal), Melting Flesh(non-lethal) Arcane Archer, Master Battle Axeman
+Story: The Silver Queen Came to the Dark to Show the chosen there was no need to be afraid of the Light, She then gave the chosen her blessing and told them to find a  place among the 5 races for them. After 5000 year war the Silver elf’s  are tolerated amongst the 5 races, Silver elf’s are know by their dark blue dread locks, Which are blessed by the silver Queen.  Ras’s family fought and died in the war, left orphan a family of fair skinned elf’s took him as their adopted son, He could not accept life with the people who had fought against his own, He sought life else where.(The Story Of Ras can be found in the Crystal Palace).
+
+
+Level 3: 
+Class: Glom
+Name: Thunder Clap
+Abilities: Has super strength, Has super Jump
+Attacks: His hands become Magic weapons need to complete a task
+Story: A wizard created thunder clap during the war and Reached into the spirit world and grabbed a soul unborn, so Thunder clap was like a child The wizard told his apprentice that Thunder Clap was a regular glom and was killed for his lie but Thunder Clap was intelligent and cloud not be controlled by magic he escaped and The apprentice has been looking for him ever since.
+
+Level 20: 
+Class: Unknown
+Name: Siren
+Ability: Invisibility, Transparency , “she can Only be seen if she wants to be.”
+Attacks:  Her color designates her attack, Red- fire, Green-earth, etc.
+Story: Siren is trying  to get back home, She was summoned to this world by the king of the north to kill the king of the south Under the assumption that she was saving her world form the dark terror she found that terror was the king of the north himself
+
+Level: 12 
+Class: Monk
+Name: YIN
+Ability: Joins with magical sword to become a Dragon
+Attacks: Dragon attacks, Master Swords man
+Story:  He believes the Yang Killed His Master
+
+
+Level: 12
+Class: Monk
+Name: Yang
+Abilities: Joins with sword to become a magical Tiger
+Attacks: Tiger Attacks, Master Swords Man
+Story: She believes that The Yin Killed their Master
+
+Level: Master
+Class: Assassin
+Ability: Stealth
+Name Sekil
+Story: He was Hired to kill the  Barron and stopped by a direct hit, The Barron had is captured his only son and gave him to the cyclops who live in the bowels of the Mountains no one has gone and lived except the Barron.
+
+Level: Master Politician
+Class: Human
+Story: Holds the Key to the city in between the north and the south, His master plan was to rule the north and  the south, Disguise himself as a monarch of the north He charmed the south King into giving up His spot, When the assassin had came, he told the assassin of his treachery
+
+Level: 7
+Class: Human
+Abilities: Master Swordsman, Super Strength
+Name: Obdu
+Story: Champion to his people, He is on a mission to find the prince of Eycan, Whom has Feld from his aggressive father.
+
+Level 15: 
+Class: Wood elf
+Abilities: Charms, Heal, 
+Attacks: Master at all Weapons
+Name: Self
+Story: The Once Long time Friends of the Long Oak Elves, The Mountain Dwarfs was one relation ship Long Oak converted. Until The dwarfs stole the Dimond hart, magical elf stone that hides their village and the source of the Long Oak magic, It is believed the dwarfs are using it to hide a large Mountain of gold and silver form the world.
+
+
+
+																Objective
+																
+The user Must get Ras and His Crew Home, to do so the user Must Complete every Chosen Companions Mission all Groups are complete As long as Itinka, Thunder Clap or Ras is chosen. The User Must Be able to get the IPC to Complete their Mission
+
+
+
+
+
+
+
+
+																Side Adventures
+
+
+City Of Shells:
+City Of shells:  If One Objective is complete and you enter the city of shells, An old beggar woman will be waiting for you she will tell the story of  a city of gold beneath the waters of waters, she promises power beyond belief, but nobody has ever found it because the map lies in the layer Of a gold Dragon In the North Mountains.
+
+
+
+
+
+
+
+Bell’s Company:
+Bell’s Company: Mercenary group lead by Bell, Bell a level 5 War Wizard, Seven a level 5 War Wizard, Simon Level 7 clerk, Niki Level 7  Warrior elf and Twitt a level 8 half demon
+Story: Bell’s Company has be hired by the King of the North to find Bell, Since she did not Kill the king of the south, He wants them to bring her to him so he can steal her powers.
+
+
+
+
+
+
+Angel Of Death:
+Angles Of Death: The Angels Of Death are all Druids Some of the warriors of the staff and some of Magic. They all believe in the One Dead King One of their Kind Recognizes the User as One of their Own; They Worship and Follow You until you agree to come to the temple of the undead so that you can see that you who they you are. The Priest Miron Dose not care if your are or not the return of the undead king is not for 200 years, the lies have said he will return sooner and it is now the time of the undead, If you come to the Castel Most of the druids on Miron command will try to Kill You, If you attack Minor an Ancient spell of protection is cast and you are all zapped from the castle. The angels of death will seek you out, all except one who know what happened.
+
+
+
+
+The Rings Of Visibility:
+Siren In Balk city learns Of A ring of Invisibility, She wonder what it is like to be seen and the map only cost 100 gold pieces. The city Is filled With Ton’s of large Over Powering Best and Magical weapons, No weapons can leave the city if the User has a weapon equipped The that User cannot leave the city.
+Thrug:    Thrug is an Arcane Spell caster he will give you the ring if you will allow him to watch over your Adventures you cannot kill Thrug, (In the Middel Of the city is a small house in the basement is surges real body, It is guarded by an Undead Knight and 100 Blood Knight to finish your missions you have to kill Thrug.
+
+
+
+Monster Manual
+Dire wolves: 20 HP, DP: 0-5.
+Merchant: Potions, Supplies, Magic Items,
+Bandits : Can be one type of warriors or a mix.
+Bears: 20HP DP 0-10
+Giant Bees: 10HP DP 0-5 poison
+Mintor Warriors: Hp 100-500, DP20-100
+Sandworms: HP 5, DP 5
+Lizard Men: HP 50-100, DP 5- 50
+Dwarf Warriors: HP 100-200, DP-5-50
+The Royal Guard of the North or The South: 50 Knights HP 50, DP 5-50
+Mystic Travelers: are Travelers from other worlds Whom are wishing to do battle with everyone, Summoned Demons HP 50 DP 0-50, Devils Knights HP 50, DP 0-50,  RED Knights HP 50 DP 0-50
+
+
+
+
+
+
+</p>
 
 	
 </div>
