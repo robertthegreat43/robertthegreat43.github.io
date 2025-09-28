@@ -53,83 +53,17 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <p style="background-color: lightseagreen;"> The Cursed Family: GameSciences Dracula</p>
 <input type="button" onclick="alert('This a recreation of the adams family with medusa a the vampires wife with  magical and trouble some kids' +
  ' A family secret reveled leads to war')" value="Click me">
+ 
 <p>and other titles</p>
+
+<div>
+	 <embed src="file.pdf" width="50%" height="300px" type="[Ultimate Fantasay.docx](https://github.com/user-attachments/files/22579325/Ultimate.Fantasay.docx)">
+	[Ultimate Fantasay.docx](https://github.com/user-attachments/files/22579325/Ultimate.Fantasay.docx)
+
+
 	
-    <h1> Cloud Computing
-Cloud Computing Policy Development
-Robert Green </h1>
-
-
-<p>Table of Contents
-Benefits and Risks of Cloud Computing	3
-Cloud Services Defined:	3
-IaaS	3
-PaaS	3
-SaaS	3
-Current Strategies for Securing Cloud Computing Services	4
-Cloud Computing Policy Development	5
-Business Impact Analysis:	6
-Data Security Strategies	6
-Cloud Computing Frameworks, Laws, and Regulations	8
-References	9</p>
-
-
-
-
-<h2> Benefits and Risks of Cloud Computing</h2>
-
-<p>Cloud Services Defined:</p>
-
-<p>IaaS
-
-What: is Infrastructure as a Service and is the foundation of all cloud computing
-How: Processing , storage , networks and other computing resources on which everything 
-else is based  And which customers rent or lease from the service provider
-Challenges to Implementation: Risk include remote management , poor quality credentials and error in the execution of and the DNS protocal</p>
-
-<p>PaaS
-
-What: Platform as a service
-How: programming language to deploy applications
-Challenges to Implementation: needs to be securely deployed, this service is vulnerable to the
-Normal cyber security threats and needs to be configured so.</p>
-
-<p>SaaS
-
-What: software as a Services
-How: Includes applications running in the cloud that are accessed in a thin client manner or via the Web
-Challenges to Implementation: the same as most application security problems encryption, and bad code but it has it most problems with pass word and password cracking.</p>
-
-
-<h2>Current Strategies for Securing Cloud Computing Services
-The most effective access controls:</h2>
-<p>1) Broad Network access: standard mechanisms that promote the use of high end network 
-Communications, such as phones etc.. These services are vulnerable and at risk of Dos
-And attack that denies the client access to it’s service.</p>
-
-<p>2) Resource Pooling: The computing resources of a cloud system( e. g, storage , memory, processing, network bandwidth) are pooled to serve multiple consumers using a multi-tenant model. Through different resources.
-
-3) Data sharing: sharing information among different organizations is not a trivial task since 
-
-A cloud system needs to meet the same security of organizations to achieves that
-To facilitate data sharing , concepts such as trust of the federated identities and AC
-Consumers are required to be responsible for the security of their cloud model,
-Although a cloud service provider might take over the process.
-4) I recommend that a security professional such as I be contracted to implement a secure structure and build the key elements of the AC to prepare for a possible and or  attack
-This will involve encryption weather it is key values or not, there must be a way to control who can get into your space, who has access to what types of controls, are you an administrator or just a common user this all matters has to control.</p>
-
-
-
-
-
-
-
-
-<h3>Cloud Computing Policy Development</h3>
-<p>The Business side of the cloud industry looks to be a slight messy, There are a numerous of risk that could come to the light in when consider providers, Risk such as (loss of governance, loss of business reputation, and cloud served termination, and the ability to move data in case of provider collapse. There is a  problem with getting data out of the cloud and getting it back if the vendor collapse is Costly and difficult, the lock-in. Then there is interoperability the ability move through one or more cloud provides.</p>
-
-
-  </div>
+</div>
+	
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
@@ -164,50 +98,7 @@ This will involve encryption weather it is key values or not, there must be a wa
   </div>
 </div>
     
-<h5>SOFTWARE ASSURANCE
-ROBERT GREEN</h5>
-					
 
-
-<p>Table of Contents
-Security in the Development Life Cycle	2
-Security in Non-traditional Model	5
-Security in STATIC ANALYSIS	6
-Guidelines:	6
-Software Assurance Polices and Procedures	8</p>
-
-
-<h6>Security in the Development Life Cycle
-
-
-
-<p>SDL: is structured process that is used to design , developed and test good quality software
-Planning, defining, designing, Building testing, and deployment.
-The goal of this model is build maintainable data at a low cost that meets the user requirements
-The precise plan tells how we develop maintain , replace and enhance specific software.
-Planning defining design development System testing Deployment
-
-
-<p>Stage 1 Planning:
-Requirement analysis is preformed by developers of the entiy
-The data from this report is used to perform the basic report.
-	
-Stage 2:
-Defining a requirements this is where the software is customized for the user and gets approval by market analysis, and SRS. This is a sort of document that specifies all those things that need to be defined during the whole project.</p>
-
-<p>Stage 3: Designing Architecture:
-SRS this a  reference for coders to look up and readily make the system for the software.
-The requirements are already defined this made by the design document DDS.
-	
-Stage 4:
-Developing the product, At this stage the fundamental development of the product starts for this, developers use a specific programming code as per the design. Conventional tools are also putt through this.</p>
-
-<p>Stage 5
-After this stage the development of the products is made testing of the product is necessary
-To ensure its smooth execution. A well- written document acts as a tools, it provides infromations and training.</p>
-
-<p>Stage 6:
-After all of the above steps are done and testing is ensured that the product is a reliable and fit to be deployed, it is the giving to the user for the feed back and analysis.</p>
 </body>
 
 </html>
