@@ -58,7 +58,7 @@ Another certification in game design. and a ton of small certificates</i></b></p
 
 <div>
 	 <embed src="file.pdf" width="50%" height="300px" type="[Ultimate Fantasay.docx](https://github.com/user-attachments/files/22579325/Ultimate.Fantasay.docx)">
-	[Ultimate Fantasay.docx](https://github.com/user-attachments/files/22579325/Ultimate.Fantasay.docx)
+	
 
 
 	
