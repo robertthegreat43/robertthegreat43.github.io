@@ -57,9 +57,7 @@ Another certification in game design. and a ton of small certificates</i></b></p
 <p>and other titles</p>
 
 <div>
-	 <embed src="Ultimate Fantasy.pdf" width="50%" height="300px" type="application/pdf">
-	 https://github.com/robertthegreat43/robertthegreat43.github.io/blob/main/Ultimate%20Fantasay.docx
-
+	<a href="Ultimate%20Fantasay.docx" download>Download Ultimate Fantasay.docx</a>
 
 	
 </div>
