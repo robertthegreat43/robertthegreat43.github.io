@@ -440,9 +440,78 @@ R train people that use real data. It mask personal indefinable information so t
     
   </div>
   	 <img src="/Screenshot%20(59).png" alt="Screenshot 59" height="500">
+	 <P>
+		 <h>Communication Protocols Analysis and Recommendations:
+		 </h>
+<p>	 
+The main components of the network are the ISP's equipment (routers, switches, and middleboxes connected bye transmission lines. The host or hub packet is sent transmits it to the nearest router, either on it's own LAN or over a point-to-point link to the ISP (dsl or cable) if the packet has not fully arrived then it stored until completed. The network layer provides services to the transport layer at the network layer/transport layer interface. An important question is precisely the kind that the service provides.
+</p>
+<h>	 
+Application Layer:
+</h>	
+<p>
+This is the highest layer and it is the primary layer that is responsible for interfacing with the  end-user. 
+</p>
+<h2>
+Domain Name Service:
+</h2>
+<p>
+Routing is done on networks by IP addressing for example if you wanted to send an e-mail to your friend you could use the IP address, The problem is you would have to have one for each user and you would have to update this also so this would be a lot of configure that you would not be able to keep up with.  The network admin  can map these addresses to address these needs or he can let the system do it, you will need to map these a .com or .Edu etc.. Each domain has it’s own individual mapping as we search for the ip address mapping to a specific name the data base is searched until the answer is found.
+</p>
+<p>
+Electronic Mail or FTP: This also one of most used protocols, This consist of user post which allow people to send and receive e-mails.
+</p>
+<h3>
+Hypertext Protocol:
+</h3>
+<p>
+This is the protocols that is referred to as world wide web, The web consist of a collection of web server all over the world and they have hyperlinks to other pages. The client get access to the page by it’s URL, the browser must work with the DNs protocol to find the Ip address then it must work with TCP to make it to port 80 which is HTTP destination on the machine.
+</p>
+
+<h3>How these Protocols work with Hypothical Black Magic Game Desings:
+</h3>	
+
+<p>
+In order for an Individual to even get to our site a client must use the DNS or Networking protocols once the receiver has it Domain the Client has the choice to use his/hers own, The user is prompted to use our self taught  courses to learn how to use our products, with hyperlinks we are able to send the user to different parts of the OS, that handle the specific task that the user is trying to complete while we apply the DNS protocols. For instance the client might want to make a project this project would be called C:\User\your name\project name, this would be loaded into a database and used to save the users progress or build and would also allow them to have a place  designated upon build, we must keep track of all logging and debugging if anything happens while trying to launch our platform any error we would expect logging, Thus we require FTP, for real time debugging of applications. HTTP, this would refer to the use of tools like flask Api or HTML5, Witch in accordance with our mobile applications will allow the client to view and play other clients games or use their assets, This protocols also work’s with database files to allow for rollback this is to allow payment to be made to us for our products or from other users. Also allowing text message from one virtual Machine to next in real time, while also keeping in line with DNS protocols. Because our destituted network is over mobile applications and Web-sites.
+</p>
+
+
+
+<h2>Network Traffic Analysis and Recommendations
+</h2>
+<p>
+A distributed network is used to make communication and computer usage better, By using the IP/TCP, UDP etc.. A distributed network can connect a company to the cloud and provide internet to mobile devices, phones and tablets, this type of network is key business or home computing, The major uses of a distributed are.
+</p>
+<h>Analysis
+Internet and web services: 
+</h>
+<p>
+This internet itself is a distributed network effectively connecting user from all over the world at a website page or mobile application, this also a major source of information millions of user connect to the inert to find information.
+</p>
+<h>
+Cloud Computing: the could is a virtual space network that con hold or control data and pass information at hide speeds most user hide personal data here business or cooperation might use the could to back up there data or to provide service that, clients can not provide for them selves life Iaas, or Paas, Saas, all which have there own unique strengths.
+</h>
+<p>
+Social Media Platforms: These social sites use Paas and allow user to connect with other users, the have a high volume of traffic, from user post and interactions to ensure fast delivery.
+</p>
+
+<h2>Network Traffic: 
+</h2>
+<p>
+Network Traffic peeks around 7pm and 11pm for the world wide web
+Early Morning 4am – 7am
+Late night 11pm – 4am
+</p>
+<h3>
+	Recommendations
+</h3>
+<p>
+My first Recommendation would be to use a Game Engine like Unity or Unreal since we are a startup and do not have one of our own or we are in the process of building 	our own. This allow for scalability and provide and adaptable platform in which we can distributed our games and get paid, I also recommend that in the creation of our own web site that we make this site to be used as link to any games, articles, blogs, reports, streams or webinars, This platform uses git for networking such as remote development and patching and the updating application
+It is also my recommendation that we use Flask Api or Django, since we are going to build are own game Engine and just using one of these until the software is complete, We should use this software as a method to get information from the user and allow the user to interact with 	the application, though Post, Messaging, Sharing and Webinars.  We should use a Network monitoring tool like ManageEngine, This too analysis traffic flows and based on different tech and troubleshooting network issue quickly, optimizing data across your network by identifying bandwidth hogs and block or restrict them. Improved Network security, Detect traffic anomalies and drill down to the Ip addresses causing spike in the conversations. Classify and Manage traffic using templates Uses application differentiate services code point (DSCP) templated to classify and manage network traffic supports NetFlow, sFlow, J-flow Cflow, Netstrrem and appflow
+</p>
 	
 
-</div>
+
 
 
 
