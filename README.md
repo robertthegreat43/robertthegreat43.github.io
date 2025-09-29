@@ -438,7 +438,7 @@ R train people that use real data. It mask personal indefinable information so t
     <img src="/Gamescience/Screenshot%20(74).png" alt="Networking" height="100">
     <img src="/Gamescience/Screenshot%20(75).png" alt="Networking" height="100">
 	 <img src="/GameScienceShot/Sceenshot%(59).png" alt="Netowrking" height="500">
-  </div
+  </div>
 	
 	</div>
 </div>
