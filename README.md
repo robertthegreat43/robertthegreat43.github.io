@@ -60,20 +60,28 @@ Another certification in game design. and a ton of small certificates</i></b></p
 
 <div>
 									<h1>Ultimate Fantasy</h1>
-	<P>
+									<h2>
 	        						 Ultimate Fantasy
-									By Robert Green
-		           	 Copy right all rights reserved @Robert The Great Green43
+									</h2>
+									<h1>By Robert Green
+									</h1>
+		           <p>	 Copy right all rights reserved @Robert The Great Green43
 					Any recreation of this file or document with the express permission of
 					Games Science “Robert Green” is prohibited by Robert Green 
+				   </p>
 
 
 
 
-
-               											 Game Play
-This game was originally made for VR and console, The user is allowed to cast spells and fight with weapons, The user Cannot  play the other 10 Characters because the  they are AI or IPC(Interactive Player Chaters) If there is a fight mode for this game, Then Yes if not Then no. The User or Users must make their charters up how every they want the character to look, classes decide on power than can be used (see monster manual). The user must then Choose 5 of the 10 characters to join him. “the game cannot be beat with out Ras, Intinka and Thunder Clap”. When the user selects one of the Main Charters the other two will automatically join they refuse to be separated, If the user Chooses the Yin then the Yang will automatically come with Him/Her and vice versa, this is also true with The Barron and Sekil, if the user choose the Barron the Sekil will come along, If the user choose Sekil first the Barron will not come to avoid  Sekil, The User may choose who to help first all ten Charters are there to help each other that dose not mean they will get along. The User must be active with each charter to learn them if not fights could break out and the Adventure stopped shorty because of the killing.This Story is built around Ras’s Group of three trying to get back to the realm that they were banished from for destroying the Crystal Palace.
-</P>
+														
+               											<h2>
+														Game Play
+														</h2>
+													
+								
+<p>												
+This game was originally made for VR and console, The user is allowed to cast spells and fight with weapons, The user Cannot  play the other 10 Characters because the  they are AI or IPC(Interactive Player Chaters) If there is a fight mode for this game, Then Yes if not Then no. The User or Users must make their charters  how every they want the character to look, classes decide on power than can be used (see monster manual). The user must then Choose 5 of the 10 characters to join him. “the game cannot be beat with out Ras, Intinka and Thunder Clap”. When the user selects one of the Main Charters the other two will automatically join they refuse to be separated, If the user Chooses the Yin then the Yang will automatically come with Him/Her and vice versa, this is also true with The Barron and Sekil, if the user choose the Barron the Sekil will come along, If the user choose Sekil first the Barron will not come to avoid  Sekil, The User may choose who to help first all ten Charters are there to help each other that dose not mean they will get along. The User must be active with each charter to learn them if not fights could break out and the Adventure stopped shorty because of the killing.This Story is built around Ras’s Group of three trying to get back to the realm that they were banished from for destroying the Crystal Palace.
+</p>
 
 <p>
 Monster Map
@@ -90,7 +98,7 @@ South Castle: Dark elves, Mystical Travelers, Demon Knights, Trolls, Evil Spell 
 Class: Morph (class 3)
 Name: Itinka
 Abilities: morphs Body parts
-Attacks: Class 1: Body become pokey-pined, Class2: Grows Wings and Tail, Class 3: Becomes Demonized,	
+Attacks: Class 1: Body become porkey-pined, Class2: Grows Wings and Tail, Class 3: Becomes Demonized(she eat's people espically men),	
 Story: Itinka is a Morph Princess, Her race was created when the spirit of a doppelganger jumped into a fox to return to the living to reclaim the her Human lover. Born as fox the spirit grew fast and tracked down her lover and made morphs. Morphs are a secrete race who live in on a enchanted plane. Itinka was banished by he father for Practicing dark morph art’s. Only a royal blood morphs can morph 3 Classes and grow mass, normal morph can only morph one class Face and skin color Class 2: change of Limbs Minor and Tail.		(The story Of Itinka can be found in the Crystal Palace).
 </p>
 <p>
@@ -98,7 +106,7 @@ Level: 10
 Class: Silver elf
 Name: Ras
 Attacks: Conjure, Teleport,  Pian Of Death(non-lethal), Melting Flesh(non-lethal) Arcane Archer, Master Battle Axeman
-Story: The Silver Queen Came to the Dark to Show the chosen there was no need to be afraid of the Light, She then gave the chosen her blessing and told them to find a  place among the 5 races for them. After 5000 year war the Silver elf’s  are tolerated amongst the 5 races, Silver elf’s are know by their dark blue dread locks, Which are blessed by the silver Queen.  Ras’s family fought and died in the war, left orphan a family of fair skinned elf’s took him as their adopted son, He could not accept life with the people who had fought against his own, He sought life else where.(The Story Of Ras can be found in the Crystal Palace).
+Story: The Silver Queen Came to the Dark to Show the chosen there was no need to be afraid of the Light, She then gave the chosen her blessing and told them to find a  place among the 5 races for them. After a 5000 year war the Silver elf’s  are tolerated amongst the 5 races, Silver elf’s are know by their dark blue dread locks, Which are blessed by the silver Queen.  Ras’s family fought and died in the war, left an orphan a family of fair skinned elf’s took him as their adopted son, He could not accept life with the people who had fought against his own, He sought life else where.(The Story Of Ras can be found in the Crystal Palace).
 </p>
 
 <p>
@@ -106,9 +114,10 @@ Level 3:
 Class: Glom
 Name: Thunder Clap
 Abilities: Has super strength, Has super Jump
-Attacks: His hands become Magic weapons need to complete a task
-Story: A wizard created thunder clap during the war and Reached into the spirit world and grabbed a soul unborn, so Thunder clap was like a child The wizard told his apprentice that Thunder Clap was a regular glom and was killed for his lie but Thunder Clap was intelligent and cloud not be controlled by magic he escaped and The apprentice has been looking for him ever since.
+Attacks: His hands become Magic weapons needed to complete a task
+Story: A wizard created thunder clap during the war and Reached into the spirit world and grabbed a soul unborn, so Thunder clap was like a child The wizard told his apprentice that Thunder Clap was a regular glom and was killed for his lie but Thunder Clap was intelligent and can not be controlled by magic he escaped and The apprentice has been looking for him ever since.
 </p>
+
 <p>
 Level 20: 
 Class: Unknown
@@ -125,8 +134,10 @@ Name: YIN
 Ability: Joins with magical sword to become a Dragon
 Attacks: Dragon attacks, Master Swords man
 Story:  He believes the Yang Killed His Master
+</p>
 
 
+<p>
 Level: 12
 Class: Monk
 Name: Yang
@@ -141,10 +152,12 @@ Class: Assassin
 Ability: Stealth
 Name Sekil
 Story: He was Hired to kill the  Barron and stopped by a direct hit, The Barron had is captured his only son and gave him to the cyclops who live in the bowels of the Mountains no one has gone and lived except the Barron.
+</p>
 
+<p>
 Level: Master Politician
 Class: Human
-Story: Holds the Key to the city in between the north and the south, His master plan was to rule the north and  the south, Disguise himself as a monarch of the north He charmed the south King into giving up His spot, When the assassin had came, he told the assassin of his treachery
+Story: Holds the Key to the city in between the north and the south, His master plan was to rule the north and  the south, Disguise himself as a monarch of the north He charmed the south King into giving up His Kigdom, When the Sekil  came, he told the assassin of his treachery
 </P>
 
 <p>
@@ -153,19 +166,23 @@ Class: Human
 Abilities: Master Swordsman, Super Strength
 Name: Obdu
 Story: Champion to his people, He is on a mission to find the prince of Eycan, Whom has Feld from his aggressive father.
+</p>
 
+<p>
 Level 15: 
 Class: Wood elf
 Abilities: Charms, Heal, 
 Attacks: Master at all Weapons
 Name: Self
-Story: The Once Long time Friends of the Long Oak Elves, The Mountain Dwarfs was one relation ship Long Oak converted. Until The dwarfs stole the Dimond hart, magical elf stone that hides their village and the source of the Long Oak magic, It is believed the dwarfs are using it to hide a large Mountain of gold and silver form the world.
+Story: The Once Long time Friends of the Long Oak Elves, The Mountain Dwarfs was one relation ship Long Oak praised. Until The dwarfs stole the Dimond hart, a magical elf stone that hides their village and the source of the Long Oak magic, It is believed the dwarfs are using it to hide a large Mountain of gold and silver form the world.
 </p>
 
 
 																<h1>Objective</h1>
-																
+
+<p>															
 The user Must get Ras and His Crew Home, to do so the user Must Complete every Chosen Companions Mission all Groups are complete As long as Itinka, Thunder Clap or Ras is chosen. The User Must Be able to get the IPC to Complete their Mission
+</p>
 
 
 
@@ -197,16 +214,15 @@ Story: Bell’s Company has be hired by the King of the North to find Bell, Sinc
 
 
 <p>
-Angel Of Death:
-Angles Of Death: The Angels Of Death are all Druids Some of the warriors of the staff and some of Magic. They all believe in the One Dead King One of their Kind Recognizes the User as One of their Own; They Worship and Follow You until you agree to come to the temple of the undead so that you can see that you who they you are. The Priest Miron Dose not care if your are or not the return of the undead king is not for 200 years, the lies have said he will return sooner and it is now the time of the undead, If you come to the Castel Most of the druids on Miron command will try to Kill You, If you attack Minor an Ancient spell of protection is cast and you are all zapped from the castle. The angels of death will seek you out, all except one who know what happened.
+Angel Of Death: The Angels Of Death are all Druids Some  are of the warriors of the staff and some  are of Magic. They all believe in the One Dead King. One of their Kind Recognizes the User as One of their Own; They Worship and Follow You until you agree to come to the temple of the undead so that you can see that you who they say you are. The Priest Miron Dose not care if your are or not the King of the dead, the return of the undead king is not for 200 years, the lies have said he will return sooner and it is now the time of the undead, If you come to the Castel Most of the druids on Miron command will try to Kill You, If you attack Minor an Ancient spell of protection is cast and you are all zapped from the castle. The angels of death will seek you out, all except one who know what happened.
 </p>
 
 
 
 <p>
 The Rings Of Visibility:
-Siren In Balk city learns Of A ring of Invisibility, She wonder what it is like to be seen and the map only cost 100 gold pieces. The city Is filled With Ton’s of large Over Powering Best and Magical weapons, No weapons can leave the city if the User has a weapon equipped The that User cannot leave the city.
-Thrug:    Thrug is an Arcane Spell caster he will give you the ring if you will allow him to watch over your Adventures you cannot kill Thrug, (In the Middel Of the city is a small house in the basement is surges real body, It is guarded by an Undead Knight and 100 Blood Knight to finish your missions you have to kill Thrug.
+Siren In Balk city learns Of A ring of visibility, She wonder what it is like to be seen and the map only cost 100 gold pieces. The city Is filled With Ton’s of large Over Powering Best and Magical weapons, No weapons can leave the city if the User has a weapon equipped Then that User cannot leave the city.
+Thrug:    Thrug is an Arcane Spell caster he will give you the ring if you will allow him to watch over your Adventures you cannot kill Thrug, (In the Middel Of the city is a small house in the basement where surges real body is, It is guarded by an Undead Knight and 100 Blood Knight to finish your missions you have to kill Thrug.
 </p>
 
 <h1>
@@ -244,7 +260,7 @@ By running these check you can make sure you DB is operating smoothly.
 
 <h3>Account admiration:</h3>
 <p>
-Accounts with administrative and elevated privileges are necessary for both business and IT functions, but they resent a significant risk to your organization in the hands of the careless or malcontent insider.
+Accounts with administrative and elevated privileges are necessary for both business and IT functions, but they present a significant risk to your organization in the hands of the careless or malcontent insider.
 1)Discover all accounts with privileged access.
 2)  Identity the owner of each privileged account.
 3) Work with the owners to understand the purpose of each account
@@ -260,7 +276,7 @@ Auditing is an essential component of access controls it involves monitoring and
  </p>
 <p>
 The act of auditing is more the review of logs and new data entered into the system
-It also allows the user to see if by the data and malformed or suspected information usly leads to a vulnerability or a exploit in the data tracking the data for un normal entries.
+It also allows the user to see if by the data, malformed or suspected information usely leads to a vulnerability or an exploit in the data tracking the data from un normal entries.
 </p>
 
 
@@ -279,8 +295,8 @@ Robert Green
 <h2>Software Assurance</h2>
 <p>
 TTG solutions is company dedicated to bringing innovative software solution to our users
-We rely on simulation to create attacks that are not real and find real world solutions to the problem in a market that is making 45 billion dollars computer security is losing the solutions in networking is not working to solve this problems the firewalls that are supposed to be protecting, the asset and the data are not working CERT reported that there are over 538% percent  rise in attacks reported, Hacker are coming up with new and innovate ways to use malicious software as the new Hacker proclaim that they are able to use AI to create an attack on system this could be a real problem,
-We believe the trick is to give the user maintainable data, systems and software that can be used and still be up through an attack on a network, Knowing That web security is one of these vulnerable issues. We the client may go on and simulate these types of at
+We rely on simulation to create attacks that are not real and find real world solutions to the problem in a market that is making 45 billion dollars Computer security is losing. The solutions in networking are not working to solve this problems the firewalls that are supposed to be protecting, your asset and the data are not working CERT reported that there are over a 53.8% percent  rise in attacks reported, Hacker are coming up with new and innovate ways to use malicious software as the new Hacker proclaim that they are able to use AI to create an attack on system this could be a real problem,
+We believe the trick is to give the user maintainable data, systems and software that can be used and still be up through an attack on a network, Knowing That web security is one of these vulnerable issues. We simulate These type of attacks.
 </p>
 <p>
 SDL: is structured process that is used to design , developed and test good quality software
@@ -308,30 +324,31 @@ Sarbanes-Oxley is an act to protect investors by improving the accuracy and reli
 Examples:
 </h3>
 <p>
-We know about Enron and the finical debacle there, so I will not speak a lot on this topic let move forward to two that we have never looked at before. 
+We know about Enron and the finical debocale  so I will not speak a lot on this topic let's move forward to two that we have never looked at before. 
 1) World.com: 
 During  a meeting with auditors, corporate finance director Sanjeev Sethi explained that differing amounts in two capital spending expenditures were related to “prepaid capacity”
 Cooper had never heard of. When pressed for an explanation, Sethi claimed that he did not know what the term meant despite his division approving capital sending request. He referred the auditors to the corporate controller David Myers.
-	Cooper and smith then questioned Betty , the accounting director who made the entries. To their surprise, Vinson admitted she had made the entries without knowing what they were for or seeing support for them. She had done this at the direction of Meyers and the general account director.
-Myers admitted there was no support for the entries he mad to what he thought they should be. The cooper’s team discovered # billion in questionable transfers from line cost.
+	Cooper and smith then questioned Betty , the accounting to the  director who made the entries. To their surprise, Vinson admitted she had made the entries without knowing what they were befor or seeing support for them. She had done this at the direction of Meyers and the general account director.
+Myers admitted there was no support for the entries. He made them to what he thought they should be. The cooper’s team discovered 4 billion in questionable transfers from line cost.
 </p>
 
 <h3>What It means to IT: 
 </h3>
 <p>
-Allot of It companies do a lot  of sharing of the data let’s say and to build an overall typical power house, Ther could be a few small business that do small services for you a well as 
-Large in Fastly increasing and moving world such as IT,  What it means is that the customer of a 3 party work relation is not responsible for the accounts the  first two parties unless 
+A lot of It companies do a lot  of sharing of the data let’s say and to build an overall typical power house, There could be a few small business that do small services for you a well as Large.In Fastly increasing and moving world such as IT,  What it means is that the customer of a 3 party work relation is not responsible for the accounts of the first two parties unless 
 The accounts are the same, Yet it necessary for all levels of IT infrastructure  to look at this
-Because we do a lot of licensing out and we also do a lot, Because I use jet brains products and have run my environment on a JetBrains server and do my accounting there dose make liable for their actions. In my opinion the act make the company lead account and the business administrator a little more edgy about what to and not to.
+Because we do a lot of licensing out, Because I use jet brains products and  run my environment on a JetBrains server and do my accounting there dose make me liable for their actions. In my opinion the act make the company lead account and the business administrator a little more edgy about what and who to do Businees with and not to.
 </p>
 
 <h1>Section 3 – SOX POLICY
 </h1>
 <p>
-The annual cost for compliance is $2.4M, and 565 of respondents say that compliance adds stress to their work. The Cost for non-Compliance is $4M
+The annual cost for compliance is $2.4M, and 565 of respondents say that compliance adds stress to their work. The Cost for non-Compliance is  a $4M
 Overview:
-The Sox Compliance is the act of adhering to the financial reporting auditing requirements  of the Sarbanes and Oakley act. To be compliant we must.
+The Sox Compliance is the act of adhering to the financial reporting auditing requirements  of the Sarbanes and Oakley act, To be compliant we must.
+<h2>
 Scope and Policy Details:
+</h2>
 In order to be Compliant we  need adhere to some Specific Policies, Scope to have secure Financial
 Dealing with Home and Foreign companies In a securer, non-criminal infrastructure, Security sharing data, and protecting the privacy and the interest of each company while Having such dealings.
 </p>
@@ -339,7 +356,7 @@ Dealing with Home and Foreign companies In a securer, non-criminal infrastructur
 Implement controls to protect Financial Data:
 </h2>
 <p>
-We must adhere to the CIA tirade and Confidentiality, by keeping the data secure to the user that’s is supposed to be accessing it, Integrity, protecting this data in any form from being manipulated or accessed, by a malicious user or some unforeseen event. The FISMA passed as apart of the Homeland Security Act of 2002 and the E- Government Act Of 2002. The act requires every government agency to secure the information as well as the information processing systems that support their  operations and assets, including those provided or managed by another agency, Contractor or other source.
+We must adhere to the CIA tirade: Confidentiality: by keeping the data secure to the user that’s is supposed to be accessing it, Integrity: protecting this data in any form from being manipulated or accessed by a malicious user or some unforeseen event. The FISMA passed as apart of the Homeland Security Act of 2002 and the E- Government Act Of 2002. The act requires every government agency to secure the information as well as the information processing systems that support their  operations and assets, including those provided or managed by another agency, Contractor or other source.
 </p>
 <p>
 1) Categorize the information to be protected.
@@ -422,6 +439,11 @@ R train people that use real data. It mask personal indefinable information so t
     <img src="/Gamescience/Screenshot%20(75).png" alt="Networking" height="100">
   </div>
 </div>
+
+
+
+
+
     
 
 </body>
