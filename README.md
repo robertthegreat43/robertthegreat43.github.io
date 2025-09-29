@@ -32,10 +32,10 @@
 
   }  
 
-</style>
+
 <body>
   
-<img src="/Gamescience/Gamescience4.jpg" alt="Me enjoying life" height="500">
+<img src="/Gamescience/Gamescience4.jpg" alt="Me enjoying life" height="700">
   <embed src="file.pdf" width="50%" height="300px" type="application/pdf">
   <p> <b><i>GameScience is an Author, GameDesigner, Inventor and Network Technion,
  coming from a small town in kansas the youngest of 7, He always had the  dream of Creating  games and
