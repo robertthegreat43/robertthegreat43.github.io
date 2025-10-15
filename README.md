@@ -58,7 +58,7 @@ Another certification in game design. and a ton of small certificates</i></b></p
 									<h1>By Robert Green
 									</h1>
 		           <p>	 Copy right all rights reserved @Robert The Great Green43
-					Any recreation of this file or document with the express permission of
+					Any recreation of this file or document without the express permission of
 					Games Science “Robert Green” is prohibited by Robert Green 
 				   </p>
 
@@ -327,9 +327,9 @@ Myers admitted there was no support for the entries. He made them to what he tho
 <h3>What It means to IT: 
 </h3>
 <p>
-A lot of It companies do a lot  of sharing of the data let’s say and to build an overall typical power house, There could be a few small business that do small services for you a well as Large.In Fastly increasing and moving world such as IT,  What it means is that the customer of a 3 party work relation is not responsible for the accounts of the first two parties unless 
+A lot of It companies do a lot  of sharing of the data, let’s say and to build an overall typical power house. There could be a few small business that do small services for you as well as Large. In Fastly increasing and moving world such as IT,  What it means is that the customer of a 3 party work relation is not responsible for the accounts of the first two parties unless 
 The accounts are the same, Yet it necessary for all levels of IT infrastructure  to look at this
-Because we do a lot of licensing out, Because I use jet brains products and  run my environment on a JetBrains server and do my accounting there dose make me liable for their actions. In my opinion the act make the company lead account and the business administrator a little more edgy about what and who to do Businees with and not to.
+Because we do a lot of licensing out, Because I use jet brains products and  run my environment on a JetBrains server and do my accounting there dose not make me liable for their actions. In my opinion the act makes the company lead accountant and the business administrator a little more edgy about what and who to do Businees with and who not to.
 </p>
 
 <h1>Section 3 – SOX POLICY
@@ -474,6 +474,7 @@ In order for an Individual to even get to our site a client must use the DNS or 
 <p>
 A distributed network is used to make communication and computer usage better, By using the IP/TCP, UDP etc.. A distributed network can connect a company to the cloud and provide internet to mobile devices, phones and tablets, this type of network is key business or home computing, The major uses of a distributed are.
 </p>
+
 <h>Analysis
 Internet and web services: 
 </h>
