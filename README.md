@@ -27,9 +27,9 @@
 
 <body>
   
-<img src="/Gamescience/Gamescience4.jpg" alt="Me enjoying life" height="700">
+<img src="/Robert Green/Gamescience4.jpg" alt="Me enjoying life" height="700">
   <embed src="file.pdf" width="50%" height="300px" type="application/pdf">
-  <p> <b><i>GameScience is an Author, GameDesigner, Inventor and Network Technion,
+  <p> <b><i>Robert Green is an Author, GameDesigner, Inventor and Network Technion,
  coming from a small town in kansas the youngest of 7, He always had the  dream of Creating  games and
  Game worlds of his own. Learning from D&D and Dominating the local game scene as a youth, He has a bachelor's in Computer Science
 Another certification in game design. and a ton of small certificates</i></b></p>
