@@ -24,7 +24,7 @@ Passionate about building interactive worlds and analyzing distributed networks.
 
 ## Explore More
 - [GameScience Showcase](gamescience.md)  
-- [Technical Essays](networking.md)  
+- [Technical Essays](https://github.com/robertthegreat43/robertthegreat43.github.io/blob/main/Screenshot%20(59).png.md)  
 
 ---
 
