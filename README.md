@@ -34,8 +34,8 @@ Passionate about building interactive worlds and analyzing distributed networks.
 ---
 
 ## Contact
-📧 robertthegreat@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/robertthegreat)
+📧 robert620Green@gmail.com 
+🔗 [LinkedIn](www.linledin.com/in/robert-green-1723b9238)
 
 ---
 
