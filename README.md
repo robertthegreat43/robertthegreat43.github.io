@@ -29,7 +29,7 @@ Passionate about building interactive worlds and analyzing distributed networks.
 ---
 
 ## Resume
-[Download Resume (PDF)](file.pdf)
+[Download Resume (PDF)](https://github.com/robertthegreat43/robertthegreat43.github.io/blob/main/file.pdf)
 
 ---
 
