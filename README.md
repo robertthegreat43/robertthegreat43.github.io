@@ -29,7 +29,7 @@ Passionate about building interactive worlds and analyzing distributed networks.
 ---
 
 ## Resume
-[Download Resume (PDF)](resume.pdf)
+[Download Resume (PDF)](file.pdf)
 
 ---
 
