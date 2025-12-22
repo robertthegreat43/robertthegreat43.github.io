@@ -1,77 +1,205 @@
-# Robert Green | Cybersecurity & Game Design
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robert Green | GameScience Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #ffffff;
+            color: #222;
+            line-height: 1.6;
+        }
 
-## About Me
-Cybersecurity and IT professional with a Bachelor's in Computer Science and certification in Game Design.  
-Skilled in Python, Flask, and troubleshooting complex systems.  
-Passionate about building interactive worlds and analyzing distributed networks.
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            border-bottom: 2px solid #e5e5e5;
+        }
 
----
+        header img {
+            border-radius: 8px;
+            width: 240px;
+            margin-top: 20px;
+        }
 
-## Projects
-- **Ultimate Fantasy (VR Prototype):** AI-driven party mechanics with dynamic character creation.  
-- **Crystal Palace (Narrative RPG):** Branching storylines and immersive character conflicts.  
-- **Application Layer Analysis:** Explored DNS, HTTP, and FTP protocols, applying them to real-time debugging and multiplayer game design.
+        h1, h2, h3 {
+            color: #003366;
+        }
 
----
+        section {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
 
-## Skills
-- Python, Flask, Django, HTML5, Git  
-- Networking: DNS, TCP/IP, HTTP, FTP, Distributed Systems  
-- Game Tools: Unity, Unreal, VR prototyping  
-- Cybersecurity: Network monitoring, anomaly detection, troubleshooting  
+        .section-title {
+            border-left: 5px solid #003366;
+            padding-left: 10px;
+            margin-bottom: 20px;
+        }
 
----
+        ul {
+            margin-left: 20px;
+        }
 
-## Explore More
-- [GameScience Showcase](gamescience.md)  
-- [Technical Essays](https://github.com/robertthegreat43/robertthegreat43.github.io/blob/main/Screenshot%20(59).png.md)  
+        footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+            border-top: 2px solid #e5e5e5;
+            color: #555;
+        }
 
----
+        a {
+            color: #003366;
+            text-decoration: none;
+        }
 
-## Resume
-[Download Resume (PDF)](https://github.com/robertthegreat43/robertthegreat43.github.io/blob/main/file.pdf)
+        a:hover {
+            text-decoration: underline;
+        }
 
----
+        .button {
+            display: inline-block;
+            padding: 12px 20px;
+            margin: 10px 5px;
+            background: #003366;
+            color: white;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+        }
 
-## Contact
-📧 robert620Green@gmail.com 
-🔗 [LinkedIn](www.linkedin.com/in/robert-green-1723b9238)
+        .button:hover {
+            background: #0055aa;
+        }
 
----
+        .project-img {
+            width: 100%;
+            max-width: 650px;
+            border-radius: 8px;
+            margin: 15px 0;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
 
-© 2025 Robert Green | GameScience
-# GameScience Showcase
+<body>
 
-## Worlds & Concepts
-- **From a Peasant to a King:** Epic journey from poverty to power.  
-- **The Ransom:** A drug dealer’s family teaches him a lesson.  
-- **The Crystal Palace:** Friends who fight and clash in a magical realm.  
-- **The Cursed Family:** GameScience’s take on Dracula.  
+<header>
+    <h1>GameScience Portfolio</h1>
+    <h2>Robert Green — Cybersecurity & Game Design</h2>
 
-## Characters
-- **Itinka (Morph Princess):** Multi-class morphing mechanics, banished for practicing dark arts.  
-- **Ras (Silver Elf):** Arcane archer with deep lore tied to the Silver Queen.  
-- **Thunder Clap (Glom):** Strength-based AI character created by a wizard.  
-- **Siren (Unknown Class):** Invisibility and elemental attacks, summoned to fight in a war.  
+    <!-- Profile picture -->
+    <img src="https://raw.githubusercontent.com/robertthegreat43/robertthegreat43.github.io/main/Gamescience/Gamescience4.jpg" 
+         alt="Robert Green">
 
-## Monster Maps
-- **Upper Oaks:** Dire wolves, merchants, villains.  
-- **Darkwood:** Mazes, bears, giant bees, thieves, minotaur war bandits.  
-- **Town & Desert:** Shadow men, sandworms, lizard men, Castle of Karma.  
-- **North & South Castles:** Trolls, dark elves, demon knights, evil spellcasters.
-- # Technical Essays
+    <!-- Resume + Certificate Buttons -->
+    <div>
+        <a class="button" href="https://1drv.ms/b/c/e1b20958e7932548/IQBIJZPnWAmyIIDhXBMAAAAAAb2w9pXuf8H6Sb_zKmFMPSI?e=YDX83f" target="_blank">
+            Download Resume (PDF)
+        </a>
 
-## Application Layer
-Explained DNS, HTTP, and FTP protocols and their role in distributed systems.  
-Applied concepts to game design networking (real-time debugging, rollback, multiplayer).
+        <a class="button" href="https://1drv.ms/b/c/e1b20958e7932548/IQBN32Z3lydOQ4ILhoe1vox6AQhZ_nIjuiChdJRokzXDUJs?e=x0EuPN" target="_blank">
+            View GEN AI Certificate
+        </a>
+    </div>
+</header>
 
-## Network Traffic Analysis
-- Internet as a distributed network connecting millions of users.  
-- Cloud computing (IaaS, PaaS, SaaS) for scalability and data backup.  
-- Social media platforms as high-volume distributed systems.  
-- Traffic peaks: 7–11pm globally, 4–7am early morning, 11pm–4am late night.
+<section>
+    <h2 class="section-title">About Me</h2>
+    <p>
+        Cybersecurity and IT professional with a Bachelor's in Computer Science and a certification in Game Design.
+        Skilled in Python, Flask, distributed systems, and troubleshooting complex infrastructure issues.
+        I blend technical problem-solving with creative worldbuilding, from network traffic analysis to designing
+        AI-driven RPG systems and concept games like <em>Ultimate Fantasy</em>.
+    </p>
+</section>
 
-## Recommendations
-- Use Unity or Unreal for scalability until building a custom engine.  
-- Employ Flask/Django APIs for prototypes and user interaction.  
-- Implement ManageEngine for monitoring traffic flows, detecting anomalies, and improving network security.
+<section>
+    <h2 class="section-title">Projects</h2>
+
+    <h3>Ultimate Fantasy (Concept Game from Ultimate Fantasy.docx)</h3>
+    <p>
+        <em>Ultimate Fantasy</em> is a concept game documented in <strong>Ultimate Fantasy.docx</strong>. It explores
+        a full RPG system including a Monster Map, encounter design, and progression from low-level threats to
+        high-level bosses. The design focuses on party composition, resource management, and narrative stakes.
+    </p>
+    <ul>
+        <li>Monster Map concept for region-based encounters and enemy scaling</li>
+        <li>Class and party role design for cooperative play</li>
+        <li>Systems thinking applied to quests, loot, and difficulty curves</li>
+    </ul>
+
+    <h3>Crystal Palace (Narrative RPG)</h3>
+    <p>
+        A narrative-driven RPG concept centered around conflict between friends in a magical realm. The design
+        explores loyalty, betrayal, and power structures through branching storylines and character-driven choices.
+    </p>
+    <ul>
+        <li>Branching storylines and character conflict</li>
+        <li>Political and magical faction worldbuilding</li>
+        <li>Dialogue and event flow designed for replayability</li>
+    </ul>
+
+    <h3>Application Layer & Network Traffic Analysis</h3>
+    <p>
+        Technical work exploring how the application layer functions in real-world networks, with a focus on
+        protocols like DNS, HTTP, and FTP, and how they relate to distributed systems and multiplayer game networking.
+    </p>
+    <ul>
+        <li>Explored DNS, HTTP, and FTP protocols</li>
+        <li>Applied concepts to real-time debugging and distributed systems</li>
+        <li>Designed multiplayer rollback logic and latency-aware interactions</li>
+    </ul>
+
+    <!-- Network design image -->
+    <img class="project-img" 
+         src="https://raw.githubusercontent.com/robertthegreat43/robertthegreat43.github.io/main/Gamescience/Screenshot%2059.png"
+         alt="Network Design Diagram">
+
+</section>
+
+<section>
+    <h2 class="section-title">Skills</h2>
+
+    <h3>Programming</h3>
+    <ul>
+        <li>Python, Flask, Django</li>
+        <li>HTML5, Git, REST APIs</li>
+    </ul>
+
+    <h3>Networking & Cybersecurity</h3>
+    <ul>
+        <li>DNS, TCP/IP, HTTP, FTP</li>
+        <li>Network monitoring & anomaly detection</li>
+        <li>Distributed systems & packet-level analysis</li>
+    </ul>
+
+    <h3>Game Development & Design</h3>
+    <ul>
+        <li>Concept and system design for RPGs</li>
+        <li>VR prototyping foundations</li>
+        <li>AI behavior and encounter design</li>
+        <li>Narrative systems and worldbuilding (e.g., Monster Map regions, faction design)</li>
+    </ul>
+</section>
+
+<section>
+    <h2 class="section-title">Contact</h2>
+    <p>
+        📧 <a href="mailto:robert620Green@gmail.com">robert620Green@gmail.com</a><br>
+        🔗 <a href="https://www.linkedin.com">LinkedIn</a>
+    </p>
+</section>
+
+<footer>
+    © 2025 Robert Green | GameScience
+</footer>
+
+</body>
+</html>
