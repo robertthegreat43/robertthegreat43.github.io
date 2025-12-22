@@ -25,11 +25,7 @@
             width: 240px;
             margin-top: 20px;
         }
-        <nav style="text-align:center; padding: 15px; background:#f4f4f4; border-bottom:1px solid #ddd;">
-    <a href="index.html" style="margin:0 15px; color:#003366; font-weight:bold;">Home</a>
-    <a href="game-concepts.html" style="margin:0 15px; color:#003366; font-weight:bold;">Game Concepts</a>
-    </nav>
-
+        
         h1, h2, h3 {
             color: #003366;
         }
@@ -113,6 +109,10 @@
         </a>
     </div>
 </header>
+<nav style="text-align:center; padding: 15px; background:#f4f4f4; border-bottom:1px solid #ddd;">
+    <a href="index.html" style="margin:0 15px; color:#003366; font-weight:bold;">Home</a>
+    <a href="game-concepts.html" style="margin:0 15px; color:#003366; font-weight:bold;">Game Concepts</a>
+</nav>
 
 <section>
     <h2 class="section-title">About Me</h2>
